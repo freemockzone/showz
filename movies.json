@@ -1,0 +1,68 @@
+[
+    {
+        "type": "series",
+        "category": [
+            "Web Series",
+            "Hollywood",
+            "Mystery",
+            "Drama"
+        ],
+        "title": "The Hardy Boys",
+        "year": 2020,
+        "poster": "https://images.justwatch.com/poster/238699927/s332/season-1.avif",
+        "imdb": "7.0",
+        "genres": [
+            "Mystery",
+            "Drama",
+            "Family"
+        ],
+        "pageurl": "the-hardy-boys.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Big Baby",
+        "year": 2025,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDYyMmY2MmYtMzUyNS00MDUxLWIxNmItNzY3YjI1ZGI0NzJjXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "5.6",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "keywords": [
+            "Big Baby 2025 horror movie download",
+            "watch Big Baby 2025 full movie online",
+            "Big Baby movie 720p 1080p telegram link",
+            "Big Baby 2025 english horror thriller film",
+            "Adam Lewis horror movie Big Baby download"
+        ],
+        "pageurl": "big-baby.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Hollywood",
+            "Crime",
+            "Drama"
+        ],
+        "title": "A History of Violence",
+        "year": 2005,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_.jpg",
+        "imdb": "7.5",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "keywords": [
+            "A History of Violence 2005 full movie download",
+            "watch A History of Violence online free",
+            "A History of Violence 480p 1080p telegram link",
+            "A History of Violence english crime thriller film",
+            "David Cronenberg movie A History of Violence download"
+        ],
+        "pageurl": "a-history-of-violence.html"
+    }
+]
