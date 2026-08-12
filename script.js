@@ -1,5 +1,5 @@
 /* =========================================================
-   CINEVAULT - CORE APPLICATION SCRIPT
+   SHOWZ - CORE APPLICATION SCRIPT
    ========================================================= */
 
 // Global State
@@ -24,6 +24,7 @@ const backToTopBtn = document.getElementById("backToTopBtn");
    ========================================================= */
 async function fetchMovies() {
     try {
+        // Ensure your JSON file is named 'movies.json' in your directory
         const response = await fetch('movies.json');
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         
@@ -197,32 +198,21 @@ function renderPage(page) {
 
     // Render cards
     itemsToShow.forEach(item => {
-        const card = document.createElement('div');
+        // Change from div to anchor <a> tag for perfect SEO and hover preview links
+        const card = document.createElement('a');
         card.classList.add('movie-card');
-        card.setAttribute('tabindex', '0');
+        card.href = item.pageurl || '#'; // Assign URL directly to the href attribute
+        card.title = `Watch ${item.title}`;
 
         card.innerHTML = `
             <div class="type-badge">${item.type || 'Movie'}</div>
             <div class="imdb-badge">★ ${item.imdb || 'N/A'}</div>
-            <img src="${item.poster || 'https://via.placeholder.com/300x450/222/fff?text=No+Poster'}" alt="${item.title}" loading="lazy">
+            <img src="${item.poster || 'https://via.placeholder.com/300x450/222/fff?text=No+Poster'}" alt="${item.title} Poster" loading="lazy">
             <div class="movie-info">
                 <div class="movie-title">${item.title}</div>
                 <div class="movie-meta">${item.year}</div>
             </div>
         `;
-
-        // Redirect to the dedicated HTML page instead of opening a modal
-        const redirectUrl = item.pageurl || '#';
-        
-        card.addEventListener('click', () => {
-            window.location.href = redirectUrl;
-        });
-        
-        card.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') {
-                window.location.href = redirectUrl;
-            }
-        });
 
         movieGrid.appendChild(card);
     });

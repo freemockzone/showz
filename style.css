@@ -4,7 +4,7 @@
 :root {
     --bg-color: #0d0f12;           /* Deep dark background */
     --card-bg: #1a1d24;            /* Slightly lighter dark for cards */
-    --primary-color: #e50914;      /* Professional Red (Netflix style) */
+    --primary-color: #e50914;      /* Professional Red */
     --primary-hover: #b80710;
     --text-light: #f1f1f1;
     --text-muted: #a0a0a0;
@@ -133,7 +133,7 @@ header {
 .dropdown-content a:hover {
     background-color: var(--primary-color);
     color: white;
-    padding-left: 25px; /* Nice sliding effect on hover */
+    padding-left: 25px;
 }
 
 .dropdown:hover .dropdown-content {
@@ -250,8 +250,9 @@ header {
     gap: 25px;
 }
 
-/* Movie Cards */
+/* Movie Cards (Updated for <a> tag support) */
 .movie-card {
+    display: block; /* Required because it is now an anchor tag */
     background-color: var(--card-bg);
     border-radius: 10px;
     overflow: hidden;
@@ -259,6 +260,8 @@ header {
     position: relative;
     cursor: pointer;
     border: 1px solid transparent;
+    text-decoration: none;
+    color: var(--text-light);
 }
 
 .movie-card:hover {
@@ -272,7 +275,7 @@ header {
     aspect-ratio: 2/3;
     object-fit: cover;
     display: block;
-    background-color: #222; /* Placeholder color before load */
+    background-color: #222; 
 }
 
 /* Badges */
@@ -363,7 +366,7 @@ header {
 }
 
 /* =========================================================
-   SINGLE MOVIE PAGE DETAILS (Reused from Modal)
+   SINGLE MOVIE PAGE DETAILS (For your manual HTML pages)
    ========================================================= */
 .modal-body {
     display: flex;
@@ -524,7 +527,7 @@ header {
     right: 30px;
     z-index: 1500;
     background: rgba(26, 29, 36, 0.8);
-    color: #e50914; /* Theme Red */
+    color: #e50914;
     border: 2px solid #e50914;
     border-radius: 50%;
     width: 55px;
@@ -592,7 +595,6 @@ header {
    RESPONSIVE MEDIA QUERIES
    ========================================================= */
 
-/* Tablet View */
 @media (max-width: 1024px) {
     .movie-grid {
         grid-template-columns: repeat(4, 1fr);
@@ -603,7 +605,6 @@ header {
     }
 }
 
-/* Large Mobile View */
 @media (max-width: 768px) {
     .hamburger {
         display: flex;
@@ -699,7 +700,6 @@ header {
     }
 }
 
-/* Small Mobile View */
 @media (max-width: 480px) {
     .movie-grid {
         gap: 10px;

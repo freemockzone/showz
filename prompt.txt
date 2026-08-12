@@ -1,0 +1,32 @@
+Create a complete, professional, production-ready HTML page for my website:
+
+**Website:** [https://showz.pages.dev](https://showz.pages.dev)
+
+Build the page using semantic HTML5, with CSS and JavaScript loaded externally:
+
+Home button and Logo link: ../index.html
+```html
+<link rel="stylesheet" href="../style.css">
+<script src="../script.js"></script>
+```
+
+### Content
+
+* **Title:** Big Baby 2025
+* Naturally optimize the page around the title and relevant search keywords. Use keywords contextually—avoid keyword stuffing, repetition, or spam.
+* **Poster:** https://m.media-amazon.com/images/M/MV5BMDYyMmY2MmYtMzUyNS00MDUxLWIxNmItNzY3YjI1ZGI0NzJjXkEyXkFqcGc@._V1_.jpg
+* **Download Links:** I will add these manually for each post:
+
+  * 480p: https://t.me/moviesearchontelegram/17
+  * 720p: Currently not Available for downloading.
+  * 1080p: https://t.me/moviesearchontelegram/17
+
+### Requirements
+
+Make the page modern, fast, responsive, mobile-friendly, accessible, and visually professional. Use clean semantic HTML, proper heading hierarchy, descriptive image `alt` text, canonical URL support, meta title/description, Open Graph/Twitter metadata, relevant structured data/schema markup, and SEO-friendly internal-link placeholders. **Write atleast 1500 words for faster organic reach globally on all search engines.**
+
+Optimize for Core Web Vitals and search-engine crawling: minimal HTML, lazy-load non-critical images, avoid unnecessary libraries, maintain clean URLs, and ensure important content is available in the HTML.
+
+Include a professional content layout, poster section, title/details section, download section with clearly labeled quality buttons, breadcrumbs, related-content placeholders, and a footer.
+
+Do not use inline CSS or JavaScript. Do not make false SEO guarantees. Keep the code clean, secure, accessible, and easy to edit manually.
