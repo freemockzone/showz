@@ -24,7 +24,6 @@ const backToTopBtn = document.getElementById("backToTopBtn");
    ========================================================= */
 async function fetchMovies() {
     try {
-        // Ensure your JSON file is named 'movies.json' in your directory
         const response = await fetch('movies.json');
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         
@@ -54,28 +53,29 @@ function setupGenres() {
     
     let genresSet = new Set();
     
-    // Extract unique genres from all items
     allMovies.forEach(item => {
         if (Array.isArray(item.genres)) {
             item.genres.forEach(g => genresSet.add(g.trim()));
         }
     });
 
-    // Sort alphabetically
     const sortedGenres = Array.from(genresSet).sort();
-
-    genreDropdown.innerHTML = ''; // Clear container
+    genreDropdown.innerHTML = ''; 
 
     sortedGenres.forEach(genre => {
         const a = document.createElement('a');
-        a.href = '#';
+        
+        // Fix: If we are on an inner page, clicking a genre should navigate to home
+        a.href = document.getElementById('movie-grid') ? '#' : '../index.html';
         a.innerText = genre;
         a.setAttribute('role', 'button');
         
         a.addEventListener('click', (e) => {
-            e.preventDefault();
-            filterByGenre(genre);
-            closeMobileMenu();
+            if (document.getElementById('movie-grid')) {
+                e.preventDefault();
+                filterByGenre(genre);
+                closeMobileMenu();
+            }
         });
         
         genreDropdown.appendChild(a);
@@ -97,7 +97,7 @@ function filterByCategory(category) {
         categoryTitle.innerText = `${category} Collection`;
     }
     
-    currentPage = 1; // Reset to page 1
+    currentPage = 1; 
     renderPage(currentPage);
 }
 
@@ -127,8 +127,6 @@ function handleLiveSearch() {
             const yearMatch = item.year && item.year.toString().includes(query);
             const genreMatch = Array.isArray(item.genres) && item.genres.some(g => g.toLowerCase().includes(query));
             const categoryMatch = Array.isArray(item.category) && item.category.some(c => c.toLowerCase().includes(query));
-            
-            // Keyword match for organic search improvements
             const keywordMatch = Array.isArray(item.keywords) && item.keywords.some(k => k.toLowerCase().includes(query));
 
             return titleMatch || yearMatch || genreMatch || categoryMatch || keywordMatch;
@@ -137,7 +135,7 @@ function handleLiveSearch() {
         if(categoryTitle) categoryTitle.innerText = `Search Results for "${query}" (${filteredMovies.length})`;
     }
 
-    currentPage = 1; // Reset to page 1 for search results
+    currentPage = 1; 
     renderPage(currentPage);
 }
 
@@ -153,25 +151,32 @@ if (searchBtn) {
 }
 
 /* =========================================================
-   5. NAVIGATION CLICKS
+   5. NAVIGATION CLICKS (FIXED FOR SUBPAGES)
    ========================================================= */
 document.querySelectorAll('.nav-item').forEach(item => {
     item.addEventListener('click', (e) => {
-        e.preventDefault();
-        const filter = e.target.getAttribute('data-filter');
-        if (filter) {
-            filterByCategory(filter);
-            closeMobileMenu();
+        // ONLY prevent default if we are on the main page where the grid exists
+        if (document.getElementById('movie-grid')) {
+            const filter = e.target.getAttribute('data-filter');
+            if (filter) {
+                e.preventDefault(); 
+                filterByCategory(filter);
+                closeMobileMenu();
+            }
         }
+        // If we are on a movie page, the script will naturally allow the <a href="../index.html"> link to work!
     });
 });
 
 const logoLink = document.querySelector('.logo');
 if (logoLink) {
     logoLink.addEventListener('click', (e) => {
-        e.preventDefault();
-        filterByCategory('home');
-        closeMobileMenu();
+        // ONLY prevent default if we are on the main page
+        if (document.getElementById('movie-grid')) {
+            e.preventDefault();
+            filterByCategory('home');
+            closeMobileMenu();
+        }
     });
 }
 
@@ -180,7 +185,7 @@ if (logoLink) {
    ========================================================= */
 function renderPage(page) {
     if (!movieGrid) return;
-    movieGrid.innerHTML = ''; // Clear current grid
+    movieGrid.innerHTML = ''; 
 
     const startIndex = (page - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
@@ -196,12 +201,10 @@ function renderPage(page) {
         return;
     }
 
-    // Render cards
     itemsToShow.forEach(item => {
-        // Change from div to anchor <a> tag for perfect SEO and hover preview links
         const card = document.createElement('a');
         card.classList.add('movie-card');
-        card.href = item.pageurl || '#'; // Assign URL directly to the href attribute
+        card.href = item.pageurl || '#'; 
         card.title = `Watch ${item.title}`;
 
         card.innerHTML = `
@@ -225,9 +228,8 @@ function renderPagination() {
     paginationContainer.innerHTML = '';
     const totalPages = Math.ceil(filteredMovies.length / itemsPerPage);
 
-    if (totalPages <= 1) return; // Hide pagination if only 1 page exists
+    if (totalPages <= 1) return; 
 
-    // Previous Page Button
     const prevBtn = document.createElement('button');
     prevBtn.classList.add('page-btn');
     prevBtn.innerText = '« Prev';
@@ -241,7 +243,6 @@ function renderPagination() {
     });
     paginationContainer.appendChild(prevBtn);
 
-    // Numbered Page Buttons
     for (let i = 1; i <= totalPages; i++) {
         const pageBtn = document.createElement('button');
         pageBtn.classList.add('page-btn');
@@ -255,7 +256,6 @@ function renderPagination() {
         paginationContainer.appendChild(pageBtn);
     }
 
-    // Next Page Button
     const nextBtn = document.createElement('button');
     nextBtn.classList.add('page-btn');
     nextBtn.innerText = 'Next »';
@@ -290,7 +290,6 @@ if (hamburger) {
     });
 }
 
-// Mobile Dropdown Toggle for Genres
 const dropBtn = document.querySelector('.dropbtn');
 if (dropBtn) {
     dropBtn.addEventListener('click', (e) => {
@@ -325,7 +324,7 @@ if (backToTopBtn) {
    INITIALIZE APP
    ========================================================= */
 document.addEventListener('DOMContentLoaded', () => {
-    // Only fetch movies if we are on a page with the movie grid (like index.html)
+    // We only need to fetch JSON if we are on the main page grid.
     if (document.getElementById('movie-grid')) {
         fetchMovies();
     }

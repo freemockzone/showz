@@ -1,32 +1,20 @@
-Create a complete, professional, production-ready HTML page for my website:
+Create a complete, production-ready HTML5 page for my website. Use external `../style.css` and `../script.js`; link the logo/home button to `../index.html`.
+**Web Address:** "https://showz.pages.dev/"
+"**Strictly use my script.js and style.css only**"
 
-**Website:** [https://showz.pages.dev](https://showz.pages.dev)
+### Editable Content — Update These First
 
-Build the page using semantic HTML5, with CSS and JavaScript loaded externally:
+* **Title:** Spider-Man: Brand New Day 2026
+* **Poster:** https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg
 
-Home button and Logo link: ../index.html
-```html
-<link rel="stylesheet" href="../style.css">
-<script src="../script.js"></script>
-```
+* **480p Download:** https://t.me/moviesearchontelegram/46
+* **720p Download:** https://t.me/moviesearchontelegram/47
+* **1080p Download:** https://t.me/moviesearchontelegram/48
+---
 
-### Content
+Build the page around the supplied title. Include 1550+ words, semantic HTML, responsive design, accessibility, breadcrumbs, poster/details, download section,  footer, canonical URL, meta SEO tags, Open Graph/Twitter metadata, relevant schema markup, and SEO-friendly internal links. Optimize Core Web Vitals, crawling, performance, security, and mobile usability. Avoid inline CSS/JS, unnecessary libraries, keyword stuffing, false SEO claims, and bloated HTML. Keep the code clean and easy to edit. "do-not-add-related-content placeholders".
 
-* **Title:** Big Baby 2025
-* Naturally optimize the page around the title and relevant search keywords. Use keywords contextually—avoid keyword stuffing, repetition, or spam.
-* **Poster:** https://m.media-amazon.com/images/M/MV5BMDYyMmY2MmYtMzUyNS00MDUxLWIxNmItNzY3YjI1ZGI0NzJjXkEyXkFqcGc@._V1_.jpg
-* **Download Links:** I will add these manually for each post:
-
-  * 480p: https://t.me/moviesearchontelegram/17
-  * 720p: Currently not Available for downloading.
-  * 1080p: https://t.me/moviesearchontelegram/17
-
-### Requirements
-
-Make the page modern, fast, responsive, mobile-friendly, accessible, and visually professional. Use clean semantic HTML, proper heading hierarchy, descriptive image `alt` text, canonical URL support, meta title/description, Open Graph/Twitter metadata, relevant structured data/schema markup, and SEO-friendly internal-link placeholders. **Write atleast 1500 words for faster organic reach globally on all search engines.**
-
-Optimize for Core Web Vitals and search-engine crawling: minimal HTML, lazy-load non-critical images, avoid unnecessary libraries, maintain clean URLs, and ensure important content is available in the HTML.
-
-Include a professional content layout, poster section, title/details section, download section with clearly labeled quality buttons, breadcrumbs, related-content placeholders, and a footer.
-
-Do not use inline CSS or JavaScript. Do not make false SEO guarantees. Keep the code clean, secure, accessible, and easy to edit manually.
+* "Do not use "**" for bold, use code for it."
+* "use proper heading tags, write in perfect style."
+* "Do not use "citations" on page it is not professional."
+* "Use best SEO structure, long tail keywords for ultra fast organic reach."
