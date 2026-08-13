@@ -150,6 +150,24 @@
         "Sci-Fi",
         "Action"
     ],
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Jerry_Maguire_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "imdb": "7.8",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "pageurl": "movies/download-jerry-maguire-1996-movie-in-english-hindi.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood",
+        "Sci-Fi",
+        "Action"
+    ],
     "title": "Star Wars: The Force Awakens",
     "year": 2015,
     "poster": "https://images.fastcompany.com/image/upload/fc/3052458-inline-i-1-celebrate-the-poster.jpg",
