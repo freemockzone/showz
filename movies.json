@@ -1,5 +1,313 @@
 [
     {
+    "type": "series",
+    "category": [
+        "Bollywood"
+    ],
+    "title": "Thukra Ke Mera Pyaar Season 2",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyuKSC-40EhNJNYkoib5sI8LqrdtrrxKMI9P_H-524Y2B_VBbuz2ZCcXU&s=10",
+    "imdb": "6.5",
+    "genres": [
+        "Romance",
+        "Drama"
+    ],
+    "pageurl": "movies/download-thukra-ke-mera-pyaar-season-2-2026-in-hindi.html"
+},
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Gatta Kusthi 2",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmU4OTVmNmQtYmIwOC00NDBiLWIxMGEtYTNiNGExMTI2OGNkXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "8.4",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Sports"
+        ],
+        "pageurl": "movies/download-gatta-kusthi-2-2026-in-hindi-tamil.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Peddi",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToA3AQ6b8CzD6XvTlhkDTw5r4oZiM2W-O3EkDfXzESaQi2NnDzo7oIpEQ&s=10",
+        "imdb": "7.8",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sports"
+        ],
+        "pageurl": "movies/download-peddi-2026-in-hindi-telugu.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Kollywood"
+        ],
+        "title": "Idhayam Murali",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7MXDw7ouDa_3NsgZ4iLAKku2IoOfiZJ-nbvmWditNLy5iYmEIrGhSqM&s=10",
+        "imdb": "7.2",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Comedy"
+        ],
+        "pageurl": "movies/download-idhayam-murali-2026-in-hindi-tamil.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "The Last House",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "6.8",
+        "genres": [
+            "Sci-Fi",
+            "Thriller",
+            "Horror"
+        ],
+        "pageurl": "movies/download-the-last-house-2026-in-hindi-english.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Con City",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWFkNzExYTEtZjNjMC00NDQ3LWJkOTMtYzdkYTAyMzZlNTg1XkEyXkFqcGc@._V1_.jpg",
+        "imdb": "6.1",
+        "genres": [
+            "Crime",
+            "Action"
+        ],
+        "pageurl": "movies/download-con-city-2026-in-hindi-tamil.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Kollywood"
+        ],
+        "title": "Chennai Love Story",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "6.5",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "pageurl": "movies/download-chennai-love-story-2026-in-telugu.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Hushar Pittalu",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99VC0wH9SuB_U5kvG8JYDS6EigVrKrcWGPJCEkBg5rFeF7E9EPnRPygdY&s=10",
+        "imdb": "6.9",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "pageurl": "movies/download-hushar-pittalu-2026-in-telugu-in-480p-720p-1080p.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Ikka",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "7.0",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-ikka-2026-in-hindi.html"
+    },
+       {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "The Odyssey",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEa3WB0z8KNpM5FXjamRTVOcGHSaecrVzL2z0JEzD6fhz-XifHMulIZo&s=10",
+        "imdb": "7.4",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "pageurl": "movies/download-the-odyssey-2026-in-english-hindi-tamil-telugu.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Korean Kanakaraju",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjYGpPD89n49uEnmYWhVvY8RfrxFInA9yf0yl_aHBueGSy1LBvFHkjjo&s=10",
+        "imdb": "6.7",
+        "genres": [
+            "Comedy",
+            "Action"
+        ],
+        "pageurl": "movies/download-korean-kanakaraju-2026-in-telugu-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Maa Inti Bangaram",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHN8-shcuAxYKUM9QDx6xGj0PxCDdQpCsi8zQW6vJMeUpePqQs9kuMvop&s=10",
+        "imdb": "7.1",
+        "genres": [
+            "Family",
+            "Drama"
+        ],
+        "pageurl": "movies/download-maa-inti-bangaram-2026-in-telugu-tamil-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Deewana",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "6.4",
+        "genres": [
+            "Romance",
+            "Musical"
+        ],
+        "pageurl": "movies/download-deewana-2026-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Nagabandham - The Secret Treasure",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMTQwNzQtNzdhMS00ODRlLWIxYTgtN2Q2Mjk0NTUwM2EwXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "7.5",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Fantasy"
+        ],
+        "pageurl": "movies/download-nagabandham-the-secret-treasure-2026-in-telugu-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Godari Gattupaina",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfTK5gKywmiqXzQ5i9FCb_H580GqF0Q1rQMZPvOp4LMbRDVKngOPG247B&s=10",
+        "imdb": "6.6",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "pageurl": "movies/download-godari-gattupaina-2026-in-telugu-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Made in India: A Titan Story",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3t-syTyLqg-KSk497Zv4as7AKicx8PvwTEOBdVoYr1iJC0As8UMZ_08&s=10",
+        "imdb": "8.0",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "pageurl": "movies/download-made-in-india-a-titan-story-2026-in-hindi.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "The Traitors - Season 2",
+        "year": 2026,
+        "poster": "https://resizing.flixster.com/DTQ7Q7lRg1RM6XDJ1fBtY_Fcm9E=/206x305/v2/https://resizing.flixster.com/nuGZ5AYhixTUpwUTRUTO3zY7mWE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMTEyMDJjMDktY2FhZi00N2VhLWIxZjctYzhlZjExZTYzOTMwLmpwZw==",
+        "imdb": "7.3",
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "pageurl": "movies/download-the-traitors-2026-in-english-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "A Toxic Love Story",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjNjYzFjNWItY2MzYy00NDE0LTg1ZTItYWFlNzg5MjgyZjhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "6.2",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "pageurl": "movies/download-a-toxic-love-story-2026-in-english-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Lenin",
+        "year": 2026,
+        "poster": "https://cdn.district.in/movies-assets/images/cinema/poster_0004_Lenini-73309e00-1548-11f0-afe9-91710f201788.jpg",
+        "imdb": "7.1",
+        "genres": [
+            "Biography",
+            "History",
+            "Drama"
+        ],
+        "pageurl": "movies/download-lenin-2026-in-hindi.html"
+    },
+    {
+    "type": "movie",
+    "category": [
+        "Bollywood"
+    ],
+    "title": "Main Vaapas Aaunga",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGE8kVlgbUbQrwBtPlxWlU0tHbCW-OABfL1kSPXAJD6DJUuWyUcqzS9k8_&s=10",
+    "imdb": "8.2",
+    "genres": [
+        "Drama",
+        "Romance",
+        "History"
+    ],
+    "pageurl": "movies/download-main-vaapas-aaunga-2026-in-hindi.html"
+},
+    {
         "type": "series",
         "category": [
             "Web Series",
