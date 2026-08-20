@@ -1,5 +1,145 @@
 [
     {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Batwara 1947",
+        "year": 2026,
+        "poster": "https://tmdb.org",
+        "imdb": "N/A",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "pageurl": "movies/download-batwara-1947-2026-in-hindi.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Documentary"
+        ],
+        "title": "Declassified: Operation Sindoor",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5lJ1dOKqmkHUgZvu-ZmTSDfLr7aMiLiwOJwFKRGQ3yv7vGpZghdWZfU&s=10",
+        "imdb": "N/A",
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "pageurl": "movies/download-declassified-operation-sindoor-season-1-2026-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Srirastu Subhamastu",
+        "year": 2016,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbPmh9PDAAv2jo5OjcBuVVqYZmUzAna91EWXhTkCX57_GyLqthZG9wu4Z&s=10",
+        "imdb": "6.6",
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "pageurl": "movies/download-srirastu-subhamastu-2016-in-telugu.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Sacred Games",
+        "year": 2018,
+        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyODc1MDAtNTg0ZC00MjRhLTg1NzctM2NjYTlmOGMwYWNiXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "8.5",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-sacred-games-all-seasons-in-hindi.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Mirzapur All Seasons",
+        "year": 2018,
+        "poster": "https://m.media-amazon.com/images/I/716krwewimL._AC_UF894,1000_QL80_.jpg",
+        "imdb": "8.4",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-mirzapur-all-seasons-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Taare Zameen Par",
+        "year": 2007,
+        "poster": "https://m.media-amazon.com/images/I/611JgDfdb7L.jpg",
+        "imdb": "8.3",
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "pageurl": "movies/download-taare-zameen-par-2007-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Hanuman Ansh",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2IyZWQxZjEtZWM4YS00MjRhLWFkNWEtNjZhNTZlMDgxYWUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "7.7",
+        "genres": [
+            "Drama"
+        ],
+        "pageurl": "movies/download-hanuman-ansh-2026-in-hindi.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Thukra Ke Mera Pyaar",
+        "year": 2024,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmEyNmY5YTQtZGFiYy00YmY5LWI5MjAtMzBlYmMyZmFjMGRjXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "6.5",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "pageurl": "movies/download-thukra-ke-mera-pyaar-all-seasons-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Awarapan 2",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BZDJiYmZhMGYtMDZlYi00YTY1LWI3NDktNzYxMTY4NzhkNTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "7.0",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-awarapan-2-2026-in-hindi.html"
+    },
+    {
     "type": "series",
     "category": [
         "Bollywood"
