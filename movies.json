@@ -1,4 +1,99 @@
 [
+        {
+        "type": "movie",
+        "category": [
+            "Tollywood"
+        ],
+        "title": "Jana Nayagan",
+        "year": 2026,
+        "poster": "https://i.pinimg.com/736x/5c/34/5c/5c345c1bd62ba9ca3c5192885c25ea18.jpg",
+        "imdb": "5.0",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "pageurl": "movies/download-jana-nayagan-2026-in-tamil-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Raja Shivaji",
+        "year": 2026,
+        "poster": "https://www.cinematerial.com/p/500x/ia5vn8px/raja-shivaji-indian-movie-poster.jpg?v=1749221937",
+        "imdb": "8.2",
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "pageurl": "movies/download-raja-shivaji-2026-in-hindi-marathi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Dhurandhar: The Revenge",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDhjNThiMjQtNTc0ZS00MjAxLTgyODItNDFkZjI5YjU0MDJhXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "8.0",
+        "genres": [
+            "Spy",
+            "Action",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-dhurandhar-the-revenge-2026-in-hindi.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Cocktail 2",
+        "year": 2026,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7enMCXrgU3oT9S88ZOgnPQ0mO2TUyS257iZS4kh9xrEp2agh894WBCZp&s=10",
+        "imdb": "6.4",
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "pageurl": "movies/download-cocktail-2-2026-in-hindi.html"
+    },
+        {
+        "type": "movie",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Facing El Chapo",
+        "year": 2026,
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNjBkNTUtYWM2OC00MDJiLWE0ZjctMmMxMjE1ODMxMzQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "7.0",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Action"
+        ],
+        "pageurl": "movies/download-facing-el-chapo-2026-in-english-spanish.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
+        "title": "Governor",
+        "year": 2026,
+        "poster": "https://cdn.district.in/movies-assets/images/cinema/Governor_A_Poster-753cda90-4479-11f1-9e72-b3859bd2479f.jpg",
+        "imdb": "6.9",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-governor-2026-in-hindi.html"
+    },
     {
         "type": "movie",
         "category": [
