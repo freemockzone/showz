@@ -4,6 +4,23 @@
         "category": [
             "Bollywood"
         ],
+        "title": "Awarapan 2007",
+        "year": 2007,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWRiMDY0ZTAtNDJlOS00MjVmLWFkNTktNDk4YzNmNTY4NmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "imdb": "7.4",
+        "genres": [
+            "Drama",
+            "Action",
+            "Crime",
+            "Romance"
+        ],
+        "pageurl": "movies/download-awarapan-2007-in-hindi-in-480p-720p-1080p-2k-4k.html"
+    },
+    {
+        "type": "movie",
+        "category": [
+            "Bollywood"
+        ],
         "title": "Batwara 1947",
         "year": 2026,
         "poster": "https://tmdb.org",
@@ -1237,24 +1254,6 @@
         "Sci-Fi"
     ],
     "pageurl": "movies/download-transformers-dark-of-the-moon-2011-in-english.html"
-},
-{
-    "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Adventure"
-    ],
-    "title": "The Odyssey",
-    "year": 2026,
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCov09_C-hQTbUcTg6qfNGZ6E-FySqMWDI6EfoPmXVqA&s",
-    "imdb": "8.1",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-    ],
-    "pageurl": "movies/download-the-odyssey-2026-movie-in-english.html"
 },
 {
     "type": "movie",
