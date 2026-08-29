@@ -1,4 +1,194 @@
 [
+    {
+    "type": "movie",
+    "category": [
+        "Mollywood"
+    ],
+    "title": "Khalifa",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmRjZjU4NTgtOThiZS00ZDFiLWIyMzEtYzMxYWZhM2IzNjIxXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "5.6",
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "pageurl": "movies/download-khalifa-2026-in-malayalam-hindi.html"
+},
+{
+    "type": "series",
+    "category": [
+        "Bollywood"
+    ],
+    "title": "Clean Up Company Season 1",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmMzMDFiMzgtMDQwZC00MTlhLWIyMDYtOTEzNTkxMGJhNzA3XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "6.8",
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "pageurl": "movies/download-clean-up-company-full-series-all-seasons.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Sandalwood"
+    ],
+    "title": "Toxic",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXRyFpsHrG6T_s3T-dOIkjPZNk7F9sv7fHD_b0m4MRA&s",
+    "imdb": "7.2",
+    "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+    ],
+    "pageurl": "movies/download-toxic-2026-in-kannada-hindi-tamil-telugu.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Bollywood"
+    ],
+    "title": "Ikkis",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWJkZjg2ZTktYmQ3OC00OTJmLTg4ODUtZWUzNWYwYjg0MTA1XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "6.1",
+    "genres": [
+        "Action",
+        "Biographical",
+        "War"
+    ],
+    "pageurl": "movies/download-ikkis-2026-movie-in-hindi.html"
+},
+{
+    "type": "series",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "Homeland All Seasons",
+    "year": 2011,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qg5gaSkh-rRrCUcZj__lAggFM6TAbKSsKLgZDi1zL3EdGIcocKiSZUs&s=10",
+    "imdb": "8.3",
+    "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+    ],
+    "pageurl": "movies/download-homeland-full-series-all-seasons.html"
+},
+{
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "The Wire All Seasons",
+        "year": 2002,
+        "poster": "https://m.media-amazon.com/images/I/8157ug7+K+L.jpg",
+        "imdb": "9.3",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-the-wire-full-series-all-seasons.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "The Sopranos All Seasons",
+        "year": 1999,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUetCQcHZGfnxd6HNAjMGmHaLK7c_dlmAbb7yr-nbYuvBw9Z_ho48dqZ0&s=10",
+        "imdb": "9.2",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "pageurl": "movies/download-the-sopranos-all-seasons.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Game of Thrones All Seasons",
+        "year": 2011,
+        "poster": "https://m.media-amazon.com/images/I/51A7EGmxK-L._AC_UF894,1000_QL80_.jpg",
+        "imdb": "9.2",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "pageurl": "movies/download-game-of-thrones-all-seasons-in-hindi-english.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Curb Your Enthusiasm",
+        "year": 2000,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOmN7H4gQAAyrsVabowBfMOGQI0HA_JrZ_m7mHpN7ij_YHcw4FWp1HS4&s=10",
+        "imdb": "8.8",
+        "genres": [
+            "Comedy"
+        ],
+        "pageurl": "movies/download-curb-your-enthusiasm-all-seasons.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Deadwood All Seasons",
+        "year": 2004,
+        "poster": "https://image.tmdb.org/t/p/original/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
+        "imdb": "8.4",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Western"
+        ],
+        "pageurl": "movies/download-deadwood-all-seasons.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Oz",
+        "year": 1997,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTE5YmUxMmYtZGM1YS00ZjFiLThmNDUtNGNkZjQ1Mzk3Y2MzXkEyXkFqcGc@._V1_.jpg",
+        "imdb": "8.7",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "pageurl": "movies/download-oz-all-seasons.html"
+    },
+    {
+        "type": "series",
+        "category": [
+            "Hollywood"
+        ],
+        "title": "Band of Brothers",
+        "year": 2001,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01ZM79H73j_t1EuESIln_dPSaziQpDUD3zR00qQwb_GjzF3u-VUoimBXz&s=10",
+        "imdb": "9.4",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "pageurl": "movies/download-band-of-brothers-all-seasons.html"
+    },
         {
         "type": "movie",
         "category": [
@@ -118,7 +308,7 @@
         ],
         "title": "Batwara 1947",
         "year": 2026,
-        "poster": "https://tmdb.org",
+        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Batwara_1947_film_poster.jpg/250px-Batwara_1947_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
         "imdb": "N/A",
         "genres": [
             "Drama",
