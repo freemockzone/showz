@@ -1,2026 +1,1393 @@
 [
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Hollywood"],
+    "title": "Independence Day",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_TVBBAOOwdygonnWHf0Nc4oT9A6JsL8BRO9WHmzh4g&s",
+    "imdb": 7.0,
+    "genres": ["Action", "Sci-Fi"],
+    "pageurl": "movies/download-independence-day-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Adrenalin: Fear the Rush",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBO-0UcN7ecD212D_h8O9X9nIFVhPjkqk6s9kdKndAQ&s=10",
+    "imdb": 3.9,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "pageurl": "movies/download-adrenalin-fear-the-rush-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPsA2TOL-k0uAz6xGZN-Kc29Ve2RgYqz1G1-SlwJNiUw&s=10",
+    "imdb": 7.0,
+    "genres": ["Comedy", "Sport"],
+    "pageurl": "movies/download-happy-gilmore-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "The Cable Guy",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR9l6Niqux-j80hnf4E9kT5P0PvB3Mh5mxcIMad2xhgQ&s=10",
+    "imdb": 6.2,
+    "genres": ["Comedy", "Drama", "Thriller"],
+    "pageurl": "movies/download-the-cable-guy-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Body of Influence 2",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtmULBoyFUUided9rAmQcCMRQSp813XUi37sjwlUVVGQ&s=10",
+    "imdb": 3.4,
+    "genres": ["Drama", "Thriller"],
+    "pageurl": "movies/download-body-of-influence-2-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Black Mask",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxpRcaZWau5srNKnp65MfTF-WWuKrUADrGapn4mVUjg&s=10",
+    "imdb": 6.0,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "pageurl": "movies/download-black-mask-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Solo",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFXW0WmP7qx5ovBT5YVCq3Roey0T0bUfFyjHSeipsX4A&s=10",
+    "imdb": 4.1,
+    "genres": ["Action", "Sci-Fi", "Thriller"],
+    "pageurl": "movies/download-solo-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Doraemon: Nobita and the Galaxy Super-express",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkGhHOOv_eMYF0Wp2-a5zKPuN2LM8-5ZSb8nOHHK_3jA&s",
+    "imdb": 7.0,
+    "genres": ["Animation", "Adventure", "Sci-Fi"],
+    "pageurl": "movies/download-doraemon-the-movie-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrI1hINPyrK9E4KNt44onYv-iVWWU6slq9CCsDtIc3Q&s=10",
+    "imdb": 7.2,
+    "genres": ["Action", "Adventure", "Thriller"],
+    "pageurl": "movies/download-mission-impossible-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Fear",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UNukWJK71SMR8Zbk6-ZTfk1jHQp7vjDTv2ieIi9XOQ&s=10",
+    "imdb": 6.3,
+    "genres": ["Drama", "Thriller"],
+    "pageurl": "movies/download-fear-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "The Long Kiss Goodnight",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4V4hS0ZNBNMVqwMJqxOnnELkQY-sa5fFs_WIU--FqA&s=10",
+    "imdb": 6.8,
+    "genres": ["Action", "Mystery", "Thriller"],
+    "pageurl": "movies/download-the-long-kiss-goodnight-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "The Ghost and the Darkness",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1cQ2UV6Gpok3dczTEALVxXUez-4MJFT6I8qVmruPwxA&s",
+    "imdb": "6.8",
+    "genres": ["Adventure", "Drama", "Thriller"],
+    "pageurl": "movies/download-the-ghost-and-the-darkness-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Mother, May I Sleep with Danger?",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStX0yOG9X7pT71vv8OSvc4w0z0vjLjqN9wgwL15PnkGw&s=10",
+    "imdb": "5.0",
+    "genres": ["Drama", "Thriller"],
+    "pageurl": "movies/download-mother-may-i-sleep-with-danger-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Raja Hindustani",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhlajX1uo6AeCMRLyiPCaNb-BdDWD7341vQ-RxDK_i3g&s",
+    "imdb": "6.1",
+    "genres": ["Action", "Drama", "Romance"],
+    "pageurl": "movies/download-raja-hindustani-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Broken Arrow",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Y5CKRlfRIU75WX1bfyczjSXj9wPAryavc8vL4xbb8Q&s=10",
+    "imdb": "6.1",
+    "genres": ["Action", "Thriller"],
+    "pageurl": "movies/download-broken-arrow-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bengali"],
+    "title": "Lathi",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5RkNh1JaH5HNjVt3H7ImfJwDLkjWUNs10lMvjJ80zQ&s=10",
+    "imdb": "8.0",
+    "genres": ["Drama", "Family"],
+    "pageurl": "movies/download-lathi-1996-in-bengali-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Ransom",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonXLXzK3Nvftshlnzvg2gJtx8ReDqLWDcsJ_mNsRE2A&s=10",
+    "imdb": "6.7",
+    "genres": ["Action", "Crime", "Thriller"],
+    "pageurl": "movies/download-ransom-1996-in-hindi-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Mystery Science Theater 3000: The Movie",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBjP-ulkun-WkOJvRwhxYI2KGOrVT_dJvJ13RMym2Jwg&s=10",
+    "imdb": "7.1",
+    "genres": ["Comedy", "Sci-Fi"],
+    "pageurl": "movies/download-mystery-science-theater-3000-the-movie-1996-in-english-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
     "title": "Dilwale Dulhania Le Jayenge",
     "year": 1995,
     "poster": "https://m.media-amazon.com/images/M/MV5BNDYzNDczNzE0MV5BMl5BanBnXkFtZTcwMzMzODc0MQ@@._V1_.jpg",
     "imdb": "8.0",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "pageurl": "movies/download-dilwale-dulhania-le-jayenge-1995-in-hindi.html"
+    "genres": ["Drama", "Romance"],
+    "pageurl": "movies/download-dilwale-dulhania-le-jayenge-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Karan Arjun",
     "year": 1995,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWM1YzhkNTMtM2ViZi00OGNmLTg4ZDItZGZiODZjN2U4NzY0XkEyXkFqcGc@._V1_.jpg",
     "imdb": "6.8",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
+    "genres": ["Action", "Drama", "Fantasy"],
     "pageurl": "movies/download-karan-arjun-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Coolie No. 1",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwM45Gp9WBPZYr0fuvtW4HBRwBxQcNUc3YO40_D6JH0Er_di1EYq-1Li4&s=10",
     "imdb": "6.6",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
+    "genres": ["Comedy", "Romance"],
     "pageurl": "movies/download-coolie-no-1-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Akele Hum Akele Tum",
     "year": 1995,
     "poster": "https://m.media-amazon.com/images/M/MV5BYjAxY2Y3OTAtY2EwOS00ZTJjLTkwNmItNGIwNjcxMmIyM2UwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "6.9",
-    "genres": [
-      "Drama",
-      "Musical",
-      "Romance"
-    ],
+    "genres": ["Drama", "Musical", "Romance"],
     "pageurl": "movies/download-akele-hum-akele-tum-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Sabse Bada Khiladi",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Z8fyAcaaUv5VrZbxV398Rgup_Rh19DmtzWD2fgC2AQ&s=10",
     "imdb": "5.9",
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "pageurl": "movies/download-sabse-bada-khiladi-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Trimurti",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-KLD4ZhiewpKgddeY1Tikoz83cH-V4HGPHn92gbkRA&s=10",
     "imdb": "4.9",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
+    "genres": ["Action", "Drama"],
     "pageurl": "movies/download-trimurti-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Barsaat",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMeYWvkp2NcZHeEr5c2sJ0LPtifNpYQ_W4moePIDtLA&s=10",
     "imdb": "5.3",
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Action", "Drama", "Romance"],
     "pageurl": "movies/download-barsaat-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Hulchul",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsu6qBSwkuCNhbJhTEXrzJeVbfSDLFVVGAAWmCi4Xccg&s=10",
     "imdb": "5.3",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
+    "genres": ["Action", "Comedy", "Drama"],
     "pageurl": "movies/download-hulchul-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Yaraana",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7Bu3adJEgOYe4fRGQ34OT68qgqyY2J6xzgzI1TxOkw&s=10",
     "imdb": "5.0",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Musical"
-    ],
+    "genres": ["Comedy", "Drama", "Musical"],
     "pageurl": "movies/download-yaraana-1995-in-hindi-in-480p-720p-1080p.html"
   },
   {
     "type": "movie",
-    "category": [
-      "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Haqeeqat",
     "year": 1995,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-aXW1yOMPuRWEQZ3yP60DaeGzbXW5bYvMD2KCgupnQ&s",
     "imdb": "4.6",
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
+    "genres": ["Action", "Drama", "Romance"],
     "pageurl": "movies/download-haqeeqat-1995-in-hindi-in-480p-720p-1080p.html"
   },
-   {
+  {
     "type": "movie",
-    "category": [
-        "International"
-    ],
+    "category": ["International"],
     "title": "Facing El Chapo",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNjBkNTUtYWM2OC00MDJiLWE0ZjctMmMxMjE1ODMxMzQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "6.7",
-    "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "pageurl": "movies/download-facing-el-chapo-2026-in-hindi-and-english.html"
-},
-{
+  },
+  {
     "type": "game",
-    "category": [
-        "Video Game"
-    ],
+    "category": ["Video Game"],
     "title": "Grand Theft Auto VI",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BYjg0ZTExNWMtNjk4Ni00YmYxLWE0YjItODdjY2ZjNWM5ZDkzXkEyXkFqcGc@._V1_.jpg",
     "imdb": "N/A",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Crime"
-    ],
+    "genres": ["Action", "Adventure", "Crime"],
     "pageurl": "movies/404.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "The Heat",
     "year": 2013,
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/c400f6840926a3f693038eb252a0129e0ffff49ad783c6eea5302ebf09f38043.jpg",
     "imdb": "6.2",
-    "genres": [
-        "Action",
-        "Comedy",
-        "Crime"
-    ],
+    "genres": ["Action", "Comedy", "Crime"],
     "pageurl": "movies/download-the-heat-2013-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "Shrek",
     "year": 2001,
     "poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_.jpg",
     "imdb": "7.9",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-shrek-2001-in-hindi-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "The Last House",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "5.0",
-    "genres": [
-        "Horror",
-        "Sci-Fi",
-        "Thriller"
-    ],
+    "genres": ["Horror", "Sci-Fi", "Thriller"],
     "pageurl": "movies/download-the-last-house-2026-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "72 Hours",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "6.1",
-    "genres": [
-        "Comedy"
-    ],
+    "genres": ["Comedy"],
     "pageurl": "movies/download-72-hours-2026-in-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "13 Minutes",
     "year": 2021,
     "poster": "https://m.media-amazon.com/images/M/MV5BN2Y3ZDNlODItZjE5MC00MDkzLWJmYzQtODg3Mzk2ZGU4MzcyXkEyXkFqcGc@._V1_.jpg",
     "imdb": "4.7",
-    "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-    ],
+    "genres": ["Action", "Drama", "Thriller"],
     "pageurl": "movies/download-13-minutes-2021-in-hindi-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "Mickey 17",
     "year": 2025,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zUvDkPHeR_vKtI8YHkJ56Tp8lRWWW5-f4HA7wa0g1MD9f-5s2vFSYrU&s=10",
     "imdb": "6.3",
-    "genres": [
-        "Sci-Fi",
-        "Comedy",
-        "Drama"
-    ],
+    "genres": ["Sci-Fi", "Comedy", "Drama"],
     "pageurl": "movies/download-mickey-17-2025-in-hindi-english.html"
-},
-    {
+  },
+  {
     "type": "movie",
-    "category": [
-        "Mollywood"
-    ],
+    "category": ["Mollywood"],
     "title": "Khalifa",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BMmRjZjU4NTgtOThiZS00ZDFiLWIyMzEtYzMxYWZhM2IzNjIxXkEyXkFqcGc@._V1_.jpg",
     "imdb": "5.6",
-    "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "pageurl": "movies/download-khalifa-2026-in-malayalam-hindi.html"
-},
-{
+  },
+  {
     "type": "series",
-    "category": [
-        "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Clean Up Company Season 1",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BZmMzMDFiMzgtMDQwZC00MTlhLWIyMDYtOTEzNTkxMGJhNzA3XkEyXkFqcGc@._V1_.jpg",
     "imdb": "6.8",
-    "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "pageurl": "movies/download-clean-up-company-full-series-all-seasons.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Sandalwood"
-    ],
+    "category": ["Sandalwood"],
     "title": "Toxic",
     "year": 2026,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzXRyFpsHrG6T_s3T-dOIkjPZNk7F9sv7fHD_b0m4MRA&s",
     "imdb": "7.2",
-    "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-    ],
+    "genres": ["Action", "Crime", "Drama"],
     "pageurl": "movies/download-toxic-2026-in-kannada-hindi-tamil-telugu.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Ikkis",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BYWJkZjg2ZTktYmQ3OC00OTJmLTg4ODUtZWUzNWYwYjg0MTA1XkEyXkFqcGc@._V1_.jpg",
     "imdb": "6.1",
-    "genres": [
-        "Action",
-        "Biographical",
-        "War"
-    ],
+    "genres": ["Action", "Biographical", "War"],
     "pageurl": "movies/download-ikkis-2026-in-hindi.html"
-},
-{
+  },
+  {
     "type": "series",
-    "category": [
-        "Hollywood"
-    ],
+    "category": ["Hollywood"],
     "title": "Homeland All Seasons",
     "year": 2011,
-    "poster": "https://media-amazon.com",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPuixI9F0SXsT6PvJDD-Ghpsp-AmD8veDNRcb83w-caw&s=10",
     "imdb": "8.3",
-    "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
-    ],
+    "genres": ["Crime", "Drama", "Mystery"],
     "pageurl": "movies/download-homeland-full-series-all-seasons.html"
-},
-{
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "The Wire All Seasons",
-        "year": 2002,
-        "poster": "https://m.media-amazon.com/images/I/8157ug7+K+L.jpg",
-        "imdb": "9.3",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-the-wire-full-series-all-seasons.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "The Sopranos All Seasons",
-        "year": 1999,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUetCQcHZGfnxd6HNAjMGmHaLK7c_dlmAbb7yr-nbYuvBw9Z_ho48dqZ0&s=10",
-        "imdb": "9.2",
-        "genres": [
-            "Crime",
-            "Drama"
-        ],
-        "pageurl": "movies/download-the-sopranos-all-seasons.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Game of Thrones All Seasons",
-        "year": 2011,
-        "poster": "https://m.media-amazon.com/images/I/51A7EGmxK-L._AC_UF894,1000_QL80_.jpg",
-        "imdb": "9.2",
-        "genres": [
-            "Action",
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ],
-        "pageurl": "movies/download-game-of-thrones-all-seasons-in-hindi-english.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Curb Your Enthusiasm",
-        "year": 2000,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOmN7H4gQAAyrsVabowBfMOGQI0HA_JrZ_m7mHpN7ij_YHcw4FWp1HS4&s=10",
-        "imdb": "8.8",
-        "genres": [
-            "Comedy"
-        ],
-        "pageurl": "movies/download-curb-your-enthusiasm-all-seasons.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Deadwood All Seasons",
-        "year": 2004,
-        "poster": "https://image.tmdb.org/t/p/original/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
-        "imdb": "8.4",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Western"
-        ],
-        "pageurl": "movies/download-deadwood-all-seasons.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Oz",
-        "year": 1997,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTE5YmUxMmYtZGM1YS00ZjFiLThmNDUtNGNkZjQ1Mzk3Y2MzXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "8.7",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-oz-all-seasons.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Band of Brothers",
-        "year": 2001,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01ZM79H73j_t1EuESIln_dPSaziQpDUD3zR00qQwb_GjzF3u-VUoimBXz&s=10",
-        "imdb": "9.4",
-        "genres": [
-            "Drama",
-            "History",
-            "War"
-        ],
-        "pageurl": "movies/download-band-of-brothers-all-seasons.html"
-    },
-        {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Jana Nayagan",
-        "year": 2026,
-        "poster": "https://i.pinimg.com/736x/5c/34/5c/5c345c1bd62ba9ca3c5192885c25ea18.jpg",
-        "imdb": "5.0",
-        "genres": [
-            "Action",
-            "Drama",
-            "War"
-        ],
-        "pageurl": "movies/download-jana-nayagan-2026-in-tamil-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Raja Shivaji",
-        "year": 2026,
-        "poster": "https://www.cinematerial.com/p/500x/ia5vn8px/raja-shivaji-indian-movie-poster.jpg?v=1749221937",
-        "imdb": "8.2",
-        "genres": [
-            "Action",
-            "Drama",
-            "History"
-        ],
-        "pageurl": "movies/download-raja-shivaji-2026-in-hindi-marathi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Dhurandhar: The Revenge",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BNDhjNThiMjQtNTc0ZS00MjAxLTgyODItNDFkZjI5YjU0MDJhXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "8.0",
-        "genres": [
-            "Spy",
-            "Action",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-dhurandhar-the-revenge-2026-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Cocktail 2",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7enMCXrgU3oT9S88ZOgnPQ0mO2TUyS257iZS4kh9xrEp2agh894WBCZp&s=10",
-        "imdb": "6.4",
-        "genres": [
-            "Romance",
-            "Comedy",
-            "Drama"
-        ],
-        "pageurl": "movies/download-cocktail-2-2026-in-hindi.html"
-    },
-        {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Facing El Chapo",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNjBkNTUtYWM2OC00MDJiLWE0ZjctMmMxMjE1ODMxMzQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "7.0",
-        "genres": [
-            "Thriller",
-            "Crime",
-            "Action"
-        ],
-        "pageurl": "movies/download-facing-el-chapo-2026-in-english-spanish.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Governor",
-        "year": 2026,
-        "poster": "https://cdn.district.in/movies-assets/images/cinema/Governor_A_Poster-753cda90-4479-11f1-9e72-b3859bd2479f.jpg",
-        "imdb": "6.9",
-        "genres": [
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-governor-2026-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Awarapan 2007",
-        "year": 2007,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMWRiMDY0ZTAtNDJlOS00MjVmLWFkNTktNDk4YzNmNTY4NmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "7.4",
-        "genres": [
-            "Drama",
-            "Action",
-            "Crime",
-            "Romance"
-        ],
-        "pageurl": "movies/download-awarapan-2007-in-hindi-in-480p-720p-1080p-2k-4k.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Batwara 1947",
-        "year": 2026,
-        "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Batwara_1947_film_poster.jpg/250px-Batwara_1947_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-        "imdb": "N/A",
-        "genres": [
-            "Drama",
-            "History"
-        ],
-        "pageurl": "movies/download-batwara-1947-2026-in-hindi.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Documentary"
-        ],
-        "title": "Declassified: Operation Sindoor",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5lJ1dOKqmkHUgZvu-ZmTSDfLr7aMiLiwOJwFKRGQ3yv7vGpZghdWZfU&s=10",
-        "imdb": "N/A",
-        "genres": [
-            "Documentary",
-            "History",
-            "War"
-        ],
-        "pageurl": "movies/download-declassified-operation-sindoor-season-1-2026-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Srirastu Subhamastu",
-        "year": 2016,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbPmh9PDAAv2jo5OjcBuVVqYZmUzAna91EWXhTkCX57_GyLqthZG9wu4Z&s=10",
-        "imdb": "6.6",
-        "genres": [
-            "Comedy",
-            "Family",
-            "Romance"
-        ],
-        "pageurl": "movies/download-srirastu-subhamastu-2016-in-telugu.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Sacred Games",
-        "year": 2018,
-        "poster": "https://m.media-amazon.com/images/M/MV5BN2EyODc1MDAtNTg0ZC00MjRhLTg1NzctM2NjYTlmOGMwYWNiXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "8.5",
-        "genres": [
-            "Action",
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-sacred-games-all-seasons-in-hindi.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Mirzapur All Seasons",
-        "year": 2018,
-        "poster": "https://m.media-amazon.com/images/I/716krwewimL._AC_UF894,1000_QL80_.jpg",
-        "imdb": "8.4",
-        "genres": [
-            "Action",
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-mirzapur-all-seasons-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Taare Zameen Par",
-        "year": 2007,
-        "poster": "https://m.media-amazon.com/images/I/611JgDfdb7L.jpg",
-        "imdb": "8.3",
-        "genres": [
-            "Drama",
-            "Family"
-        ],
-        "pageurl": "movies/download-taare-zameen-par-2007-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Hanuman Ansh",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BM2IyZWQxZjEtZWM4YS00MjRhLWFkNWEtNjZhNTZlMDgxYWUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "7.7",
-        "genres": [
-            "Drama"
-        ],
-        "pageurl": "movies/download-hanuman-ansh-2026-in-hindi.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Thukra Ke Mera Pyaar",
-        "year": 2024,
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmEyNmY5YTQtZGFiYy00YmY5LWI5MjAtMzBlYmMyZmFjMGRjXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "6.5",
-        "genres": [
-            "Drama",
-            "Romance"
-        ],
-        "pageurl": "movies/download-thukra-ke-mera-pyaar-all-seasons-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Awarapan 2",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BZDJiYmZhMGYtMDZlYi00YTY1LWI3NDktNzYxMTY4NzhkNTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "7.0",
-        "genres": [
-            "Action",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-awarapan-2-2026-in-hindi.html"
-    },
-    {
+  },
+  {
     "type": "series",
-    "category": [
-        "Bollywood"
-    ],
+    "category": ["Hollywood"],
+    "title": "The Wire All Seasons",
+    "year": 2002,
+    "poster": "https://m.media-amazon.com/images/I/8157ug7+K+L.jpg",
+    "imdb": "9.3",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "pageurl": "movies/download-the-wire-full-series-all-seasons.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "The Sopranos All Seasons",
+    "year": 1999,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQUetCQcHZGfnxd6HNAjMGmHaLK7c_dlmAbb7yr-nbYuvBw9Z_ho48dqZ0&s=10",
+    "imdb": "9.2",
+    "genres": ["Crime", "Drama"],
+    "pageurl": "movies/download-the-sopranos-all-seasons.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "Game of Thrones All Seasons",
+    "year": 2011,
+    "poster": "https://m.media-amazon.com/images/I/51A7EGmxK-L._AC_UF894,1000_QL80_.jpg",
+    "imdb": "9.2",
+    "genres": ["Action", "Adventure", "Drama", "Fantasy"],
+    "pageurl": "movies/download-game-of-thrones-all-seasons-in-hindi-english.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "Curb Your Enthusiasm",
+    "year": 2000,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCOmN7H4gQAAyrsVabowBfMOGQI0HA_JrZ_m7mHpN7ij_YHcw4FWp1HS4&s=10",
+    "imdb": "8.8",
+    "genres": ["Comedy"],
+    "pageurl": "movies/download-curb-your-enthusiasm-all-seasons.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "Deadwood All Seasons",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/original/4Yp35DVbVOAWkfQUIQ7pbh3u0aN.jpg",
+    "imdb": "8.4",
+    "genres": ["Crime", "Drama", "Western"],
+    "pageurl": "movies/download-deadwood-all-seasons.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "Oz",
+    "year": 1997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5YmUxMmYtZGM1YS00ZjFiLThmNDUtNGNkZjQ1Mzk3Y2MzXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "8.7",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "pageurl": "movies/download-oz-all-seasons.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "Band of Brothers",
+    "year": 2001,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01ZM79H73j_t1EuESIln_dPSaziQpDUD3zR00qQwb_GjzF3u-VUoimBXz&s=10",
+    "imdb": "9.4",
+    "genres": ["Drama", "History", "War"],
+    "pageurl": "movies/download-band-of-brothers-all-seasons.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Jana Nayagan",
+    "year": 2026,
+    "poster": "https://i.pinimg.com/736x/5c/34/5c/5c345c1bd62ba9ca3c5192885c25ea18.jpg",
+    "imdb": "5.0",
+    "genres": ["Action", "Drama", "War"],
+    "pageurl": "movies/download-jana-nayagan-2026-in-tamil-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Raja Shivaji",
+    "year": 2026,
+    "poster": "https://www.cinematerial.com/p/500x/ia5vn8px/raja-shivaji-indian-movie-poster.jpg?v=1749221937",
+    "imdb": "8.2",
+    "genres": ["Action", "Drama", "History"],
+    "pageurl": "movies/download-raja-shivaji-2026-in-hindi-marathi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Dhurandhar: The Revenge",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhjNThiMjQtNTc0ZS00MjAxLTgyODItNDFkZjI5YjU0MDJhXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "8.0",
+    "genres": ["Spy", "Action", "Thriller"],
+    "pageurl": "movies/download-dhurandhar-the-revenge-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Cocktail 2",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7enMCXrgU3oT9S88ZOgnPQ0mO2TUyS257iZS4kh9xrEp2agh894WBCZp&s=10",
+    "imdb": "6.4",
+    "genres": ["Romance", "Comedy", "Drama"],
+    "pageurl": "movies/download-cocktail-2-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Facing El Chapo",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNjBkNTUtYWM2OC00MDJiLWE0ZjctMmMxMjE1ODMxMzQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.0",
+    "genres": ["Thriller", "Crime", "Action"],
+    "pageurl": "movies/download-facing-el-chapo-2026-in-english-spanish.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Governor",
+    "year": 2026,
+    "poster": "https://cdn.district.in/movies-assets/images/cinema/Governor_A_Poster-753cda90-4479-11f1-9e72-b3859bd2479f.jpg",
+    "imdb": "6.9",
+    "genres": ["Drama", "Thriller"],
+    "pageurl": "movies/download-governor-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Awarapan 2007",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWRiMDY0ZTAtNDJlOS00MjVmLWFkNTktNDk4YzNmNTY4NmIwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.4",
+    "genres": ["Drama", "Action", "Crime", "Romance"],
+    "pageurl": "movies/download-awarapan-2007-in-hindi-in-480p-720p-1080p-2k-4k.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Batwara 1947",
+    "year": 2026,
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Batwara_1947_film_poster.jpg/250px-Batwara_1947_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "imdb": "N/A",
+    "genres": ["Drama", "History"],
+    "pageurl": "movies/download-batwara-1947-2026-in-hindi.html"
+  },
+  {
+    "type": "series",
+    "category": ["Documentary"],
+    "title": "Declassified: Operation Sindoor",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5lJ1dOKqmkHUgZvu-ZmTSDfLr7aMiLiwOJwFKRGQ3yv7vGpZghdWZfU&s=10",
+    "imdb": "N/A",
+    "genres": ["Documentary", "History", "War"],
+    "pageurl": "movies/download-declassified-operation-sindoor-season-1-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Srirastu Subhamastu",
+    "year": 2016,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbPmh9PDAAv2jo5OjcBuVVqYZmUzAna91EWXhTkCX57_GyLqthZG9wu4Z&s=10",
+    "imdb": "6.6",
+    "genres": ["Comedy", "Family", "Romance"],
+    "pageurl": "movies/download-srirastu-subhamastu-2016-in-telugu.html"
+  },
+  {
+    "type": "series",
+    "category": ["Bollywood"],
+    "title": "Sacred Games",
+    "year": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2EyODc1MDAtNTg0ZC00MjRhLTg1NzctM2NjYTlmOGMwYWNiXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "8.5",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "pageurl": "movies/download-sacred-games-all-seasons-in-hindi.html"
+  },
+  {
+    "type": "series",
+    "category": ["Bollywood"],
+    "title": "Mirzapur All Seasons",
+    "year": 2018,
+    "poster": "https://m.media-amazon.com/images/I/716krwewimL._AC_UF894,1000_QL80_.jpg",
+    "imdb": "8.4",
+    "genres": ["Action", "Crime", "Drama", "Thriller"],
+    "pageurl": "movies/download-mirzapur-all-seasons-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Taare Zameen Par",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/I/611JgDfdb7L.jpg",
+    "imdb": "8.3",
+    "genres": ["Drama", "Family"],
+    "pageurl": "movies/download-taare-zameen-par-2007-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Hanuman Ansh",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2IyZWQxZjEtZWM4YS00MjRhLWFkNWEtNjZhNTZlMDgxYWUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.7",
+    "genres": ["Drama"],
+    "pageurl": "movies/download-hanuman-ansh-2026-in-hindi.html"
+  },
+  {
+    "type": "series",
+    "category": ["Bollywood"],
+    "title": "Thukra Ke Mera Pyaar",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmEyNmY5YTQtZGFiYy00YmY5LWI5MjAtMzBlYmMyZmFjMGRjXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "6.5",
+    "genres": ["Drama", "Romance"],
+    "pageurl": "movies/download-thukra-ke-mera-pyaar-all-seasons-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Awarapan 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDJiYmZhMGYtMDZlYi00YTY1LWI3NDktNzYxMTY4NzhkNTU5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.0",
+    "genres": ["Action", "Thriller"],
+    "pageurl": "movies/download-awarapan-2-2026-in-hindi.html"
+  },
+  {
+    "type": "series",
+    "category": ["Bollywood"],
     "title": "India's Got Latent Season 2",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/original/vwF92OSwsNqb2DaccHpbV7Ak4Er.jpg",
     "imdb": "8.4",
-    "genres": [
-        "Comedy",
-        "Game-Show",
-        "Reality-TV"
-    ],
+    "genres": ["Comedy", "Game-Show", "Reality-TV"],
     "pageurl": "movies/download-indias-got-latent-season-2-2026-in-hindi.html"
-},
-    {
+  },
+  {
     "type": "series",
-    "category": [
-        "Bollywood"
-    ],
+    "category": ["Bollywood"],
     "title": "Thukra Ke Mera Pyaar Season 2",
     "year": 2026,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyuKSC-40EhNJNYkoib5sI8LqrdtrrxKMI9P_H-524Y2B_VBbuz2ZCcXU&s=10",
     "imdb": "6.5",
-    "genres": [
-        "Romance",
-        "Drama"
-    ],
+    "genres": ["Romance", "Drama"],
     "pageurl": "movies/download-thukra-ke-mera-pyaar-season-2-2026-in-hindi.html"
-},
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Gatta Kusthi 2",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmU4OTVmNmQtYmIwOC00NDBiLWIxMGEtYTNiNGExMTI2OGNkXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "8.4",
-        "genres": [
-            "Comedy",
-            "Drama",
-            "Sports"
-        ],
-        "pageurl": "movies/download-gatta-kusthi-2-2026-in-hindi-tamil.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Peddi",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToA3AQ6b8CzD6XvTlhkDTw5r4oZiM2W-O3EkDfXzESaQi2NnDzo7oIpEQ&s=10",
-        "imdb": "7.8",
-        "genres": [
-            "Action",
-            "Drama",
-            "Sports"
-        ],
-        "pageurl": "movies/download-peddi-2026-in-hindi-telugu.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Kollywood"
-        ],
-        "title": "Idhayam Murali",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7MXDw7ouDa_3NsgZ4iLAKku2IoOfiZJ-nbvmWditNLy5iYmEIrGhSqM&s=10",
-        "imdb": "7.2",
-        "genres": [
-            "Romance",
-            "Drama",
-            "Comedy"
-        ],
-        "pageurl": "movies/download-idhayam-murali-2026-in-hindi-tamil.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "The Last House",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "6.8",
-        "genres": [
-            "Sci-Fi",
-            "Thriller",
-            "Horror"
-        ],
-        "pageurl": "movies/download-the-last-house-2026-in-hindi-english.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Con City",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BOWFkNzExYTEtZjNjMC00NDQ3LWJkOTMtYzdkYTAyMzZlNTg1XkEyXkFqcGc@._V1_.jpg",
-        "imdb": "6.1",
-        "genres": [
-            "Crime",
-            "Action"
-        ],
-        "pageurl": "movies/download-con-city-2026-in-hindi-tamil.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Kollywood"
-        ],
-        "title": "Chennai Love Story",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "6.5",
-        "genres": [
-            "Romance",
-            "Comedy"
-        ],
-        "pageurl": "movies/download-chennai-love-story-2026-in-telugu.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Hushar Pittalu",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99VC0wH9SuB_U5kvG8JYDS6EigVrKrcWGPJCEkBg5rFeF7E9EPnRPygdY&s=10",
-        "imdb": "6.9",
-        "genres": [
-            "Comedy",
-            "Drama"
-        ],
-        "pageurl": "movies/download-hushar-pittalu-2026-in-telugu-in-480p-720p-1080p.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Ikka",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "7.0",
-        "genres": [
-            "Action",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-ikka-2026-in-hindi.html"
-    },
-       {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "The Odyssey",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEa3WB0z8KNpM5FXjamRTVOcGHSaecrVzL2z0JEzD6fhz-XifHMulIZo&s=10",
-        "imdb": "7.4",
-        "genres": [
-            "Adventure",
-            "Drama",
-            "Fantasy"
-        ],
-        "pageurl": "movies/download-the-odyssey-2026-in-english-hindi-tamil-telugu.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Korean Kanakaraju",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjYGpPD89n49uEnmYWhVvY8RfrxFInA9yf0yl_aHBueGSy1LBvFHkjjo&s=10",
-        "imdb": "6.7",
-        "genres": [
-            "Comedy",
-            "Action"
-        ],
-        "pageurl": "movies/download-korean-kanakaraju-2026-in-telugu-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Maa Inti Bangaram",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHN8-shcuAxYKUM9QDx6xGj0PxCDdQpCsi8zQW6vJMeUpePqQs9kuMvop&s=10",
-        "imdb": "7.1",
-        "genres": [
-            "Family",
-            "Drama"
-        ],
-        "pageurl": "movies/download-maa-inti-bangaram-2026-in-telugu-tamil-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Deewana",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "6.4",
-        "genres": [
-            "Romance",
-            "Musical"
-        ],
-        "pageurl": "movies/download-deewana-2026-in-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Nagabandham - The Secret Treasure",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMTQwNzQtNzdhMS00ODRlLWIxYTgtN2Q2Mjk0NTUwM2EwXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "7.5",
-        "genres": [
-            "Adventure",
-            "Mystery",
-            "Fantasy"
-        ],
-        "pageurl": "movies/download-nagabandham-the-secret-treasure-2026-in-telugu-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Tollywood"
-        ],
-        "title": "Godari Gattupaina",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfTK5gKywmiqXzQ5i9FCb_H580GqF0Q1rQMZPvOp4LMbRDVKngOPG247B&s=10",
-        "imdb": "6.6",
-        "genres": [
-            "Drama",
-            "Romance"
-        ],
-        "pageurl": "movies/download-godari-gattupaina-2026-in-telugu-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Made in India: A Titan Story",
-        "year": 2026,
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3t-syTyLqg-KSk497Zv4as7AKicx8PvwTEOBdVoYr1iJC0As8UMZ_08&s=10",
-        "imdb": "8.0",
-        "genres": [
-            "Biography",
-            "Drama"
-        ],
-        "pageurl": "movies/download-made-in-india-a-titan-story-2026-in-hindi.html"
-    },
-    {
-        "type": "series",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "The Traitors - Season 2",
-        "year": 2026,
-        "poster": "https://resizing.flixster.com/DTQ7Q7lRg1RM6XDJ1fBtY_Fcm9E=/206x305/v2/https://resizing.flixster.com/nuGZ5AYhixTUpwUTRUTO3zY7mWE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMTEyMDJjMDktY2FhZi00N2VhLWIxZjctYzhlZjExZTYzOTMwLmpwZw==",
-        "imdb": "7.3",
-        "genres": [
-            "Thriller",
-            "Mystery"
-        ],
-        "pageurl": "movies/download-the-traitors-2026-in-english-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "A Toxic Love Story",
-        "year": 2026,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMjNjYzFjNWItY2MzYy00NDE0LTg1ZTItYWFlNzg5MjgyZjhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "imdb": "6.2",
-        "genres": [
-            "Drama",
-            "Romance"
-        ],
-        "pageurl": "movies/download-a-toxic-love-story-2026-in-english-hindi.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Bollywood"
-        ],
-        "title": "Lenin",
-        "year": 2026,
-        "poster": "https://cdn.district.in/movies-assets/images/cinema/poster_0004_Lenini-73309e00-1548-11f0-afe9-91710f201788.jpg",
-        "imdb": "7.1",
-        "genres": [
-            "Biography",
-            "History",
-            "Drama"
-        ],
-        "pageurl": "movies/download-lenin-2026-in-hindi.html"
-    },
-    {
+  },
+  {
     "type": "movie",
-    "category": [
-        "Bollywood"
-    ],
+    "category": ["Tollywood"],
+    "title": "Gatta Kusthi 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU4OTVmNmQtYmIwOC00NDBiLWIxMGEtYTNiNGExMTI2OGNkXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "8.4",
+    "genres": ["Comedy", "Drama", "Sports"],
+    "pageurl": "movies/download-gatta-kusthi-2-2026-in-hindi-tamil.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Peddi",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToA3AQ6b8CzD6XvTlhkDTw5r4oZiM2W-O3EkDfXzESaQi2NnDzo7oIpEQ&s=10",
+    "imdb": "7.8",
+    "genres": ["Action", "Drama", "Sports"],
+    "pageurl": "movies/download-peddi-2026-in-hindi-telugu.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Kollywood"],
+    "title": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7MXDw7ouDa_3NsgZ4iLAKku2IoOfiZJ-nbvmWditNLy5iYmEIrGhSqM&s=10",
+    "imdb": "7.2",
+    "genres": ["Romance", "Drama", "Comedy"],
+    "pageurl": "movies/download-idhayam-murali-2026-in-hindi-tamil.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "The Last House",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.8",
+    "genres": ["Sci-Fi", "Thriller", "Horror"],
+    "pageurl": "movies/download-the-last-house-2026-in-hindi-english.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "Con City",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWFkNzExYTEtZjNjMC00NDQ3LWJkOTMtYzdkYTAyMzZlNTg1XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "6.1",
+    "genres": ["Crime", "Action"],
+    "pageurl": "movies/download-con-city-2026-in-hindi-tamil.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Kollywood"],
+    "title": "Chennai Love Story",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.5",
+    "genres": ["Romance", "Comedy"],
+    "pageurl": "movies/download-chennai-love-story-2026-in-telugu.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Hushar Pittalu",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS99VC0wH9SuB_U5kvG8JYDS6EigVrKrcWGPJCEkBg5rFeF7E9EPnRPygdY&s=10",
+    "imdb": "6.9",
+    "genres": ["Comedy", "Drama"],
+    "pageurl": "movies/download-hushar-pittalu-2026-in-telugu-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Ikka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "7.0",
+    "genres": ["Action", "Thriller"],
+    "pageurl": "movies/download-ikka-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "The Odyssey",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToEa3WB0z8KNpM5FXjamRTVOcGHSaecrVzL2z0JEzD6fhz-XifHMulIZo&s=10",
+    "imdb": "7.4",
+    "genres": ["Adventure", "Drama", "Fantasy"],
+    "pageurl": "movies/download-the-odyssey-2026-in-english-hindi-tamil-telugu.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Korean Kanakaraju",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSjYGpPD89n49uEnmYWhVvY8RfrxFInA9yf0yl_aHBueGSy1LBvFHkjjo&s=10",
+    "imdb": "6.7",
+    "genres": ["Comedy", "Action"],
+    "pageurl": "movies/download-korean-kanakaraju-2026-in-telugu-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Maa Inti Bangaram",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBHN8-shcuAxYKUM9QDx6xGj0PxCDdQpCsi8zQW6vJMeUpePqQs9kuMvop&s=10",
+    "imdb": "7.1",
+    "genres": ["Family", "Drama"],
+    "pageurl": "movies/download-maa-inti-bangaram-2026-in-telugu-tamil-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Deewana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.4",
+    "genres": ["Romance", "Musical"],
+    "pageurl": "movies/download-deewana-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Nagabandham - The Secret Treasure",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjJmMTQwNzQtNzdhMS00ODRlLWIxYTgtN2Q2Mjk0NTUwM2EwXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "7.5",
+    "genres": ["Adventure", "Mystery", "Fantasy"],
+    "pageurl": "movies/download-nagabandham-the-secret-treasure-2026-in-telugu-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Godari Gattupaina",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfTK5gKywmiqXzQ5i9FCb_H580GqF0Q1rQMZPvOp4LMbRDVKngOPG247B&s=10",
+    "imdb": "6.6",
+    "genres": ["Drama", "Romance"],
+    "pageurl": "movies/download-godari-gattupaina-2026-in-telugu-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Made in India: A Titan Story",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK3t-syTyLqg-KSk497Zv4as7AKicx8PvwTEOBdVoYr1iJC0As8UMZ_08&s=10",
+    "imdb": "8.0",
+    "genres": ["Biography", "Drama"],
+    "pageurl": "movies/download-made-in-india-a-titan-story-2026-in-hindi.html"
+  },
+  {
+    "type": "series",
+    "category": ["Hollywood"],
+    "title": "The Traitors - Season 2",
+    "year": 2026,
+    "poster": "https://resizing.flixster.com/DTQ7Q7lRg1RM6XDJ1fBtY_Fcm9E=/206x305/v2/https://resizing.flixster.com/nuGZ5AYhixTUpwUTRUTO3zY7mWE=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vMTEyMDJjMDktY2FhZi00N2VhLWIxZjctYzhlZjExZTYzOTMwLmpwZw==",
+    "imdb": "7.3",
+    "genres": ["Thriller", "Mystery"],
+    "pageurl": "movies/download-the-traitors-2026-in-english-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood"],
+    "title": "A Toxic Love Story",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNjYzFjNWItY2MzYy00NDE0LTg1ZTItYWFlNzg5MjgyZjhiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.2",
+    "genres": ["Drama", "Romance"],
+    "pageurl": "movies/download-a-toxic-love-story-2026-in-english-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Lenin",
+    "year": 2026,
+    "poster": "https://cdn.district.in/movies-assets/images/cinema/poster_0004_Lenini-73309e00-1548-11f0-afe9-91710f201788.jpg",
+    "imdb": "7.1",
+    "genres": ["Biography", "History", "Drama"],
+    "pageurl": "movies/download-lenin-2026-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
     "title": "Main Vaapas Aaunga",
     "year": 2026,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGE8kVlgbUbQrwBtPlxWlU0tHbCW-OABfL1kSPXAJD6DJUuWyUcqzS9k8_&s=10",
     "imdb": "8.2",
-    "genres": [
-        "Drama",
-        "Romance",
-        "History"
-    ],
+    "genres": ["Drama", "Romance", "History"],
     "pageurl": "movies/download-main-vaapas-aaunga-2026-in-hindi.html"
-},
-    {
-        "type": "series",
-        "category": [
-            "Web Series",
-            "Hollywood",
-            "Mystery",
-            "Drama"
-        ],
-        "title": "The Hardy Boys",
-        "year": 2020,
-        "poster": "https://images.justwatch.com/poster/238699927/s332/season-1.avif",
-        "imdb": "7.0",
-        "genres": [
-            "Mystery",
-            "Drama",
-            "Family"
-        ],
-        "pageurl": "movies/the-hardy-boys-season-1-download-in-english.html"
-    },
-    {
+  },
+  {
     "type": "series",
-    "category": [
-        "Web Series",
-        "Bollywood",
-        "Action",
-        "Drama"
-    ],
+    "category": ["Web Series", "Hollywood", "Mystery", "Drama"],
+    "title": "The Hardy Boys",
+    "year": 2020,
+    "poster": "https://images.justwatch.com/poster/238699927/s332/season-1.avif",
+    "imdb": "7.0",
+    "genres": ["Mystery", "Drama", "Family"],
+    "pageurl": "movies/the-hardy-boys-season-1-download-in-english.html"
+  },
+  {
+    "type": "series",
+    "category": ["Web Series", "Bollywood", "Action", "Drama"],
     "title": "Operation Safed Sagar",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOGFiNmY3NDMtNGMwMi00MzNlLThjN2UtNTBjZGY0MTNmNTk2XkEyXkFqcGc@._V1_.jpg",
     "imdb": "8.7",
-    "genres": [
-        "Action",
-        "Drama",
-        "History",
-        "War"
-    ],
+    "genres": ["Action", "Drama", "History", "War"],
     "pageurl": "movies/operation-safed-sagar-season-1-download-in-hindi.html"
-},
-    {
-        "type": "movie",
-        "category": [
-            "Hollywood"
-        ],
-        "title": "Big Baby",
-        "year": 2025,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMDYyMmY2MmYtMzUyNS00MDUxLWIxNmItNzY3YjI1ZGI0NzJjXkEyXkFqcGc@._V1_.jpg",
-        "imdb": "5.6",
-        "genres": [
-            "Horror",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-big-baby-2025-in-english.html"
-    },
-    {
-        "type": "movie",
-        "category": [
-            "Hollywood",
-            "Crime",
-            "Drama"
-        ],
-        "title": "A History of Violence",
-        "year": 2005,
-        "poster": "https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_.jpg",
-        "imdb": "7.5",
-        "genres": [
-            "Crime",
-            "Drama",
-            "Thriller"
-        ],
-        "pageurl": "movies/download-a-history-of-violence-movie-in-english.html"
-    },
-    {
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood"],
+    "title": "Big Baby",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDYyMmY2MmYtMzUyNS00MDUxLWIxNmItNzY3YjI1ZGI0NzJjXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "5.6",
+    "genres": ["Horror", "Thriller"],
+    "pageurl": "movies/download-big-baby-2025-in-english.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood", "Crime", "Drama"],
+    "title": "A History of Violence",
+    "year": 2005,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_.jpg",
+    "imdb": "7.5",
+    "genres": ["Crime", "Drama", "Thriller"],
+    "pageurl": "movies/download-a-history-of-violence-movie-in-english.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Avatar",
     "year": 2009,
     "poster": "https://upload.wikimedia.org/wikipedia/en/d/d6/Avatar_%282009_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
     "imdb": "7.9",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-avatar-2009-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Avengers: Endgame",
     "year": 2019,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
     "imdb": "8.4",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-avengers-endgame-2019-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Avatar: The Way of Water",
     "year": 2022,
     "poster": "https://upload.wikimedia.org/wikipedia/en/5/54/Avatar_The_Way_of_Water_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
     "imdb": "7.6",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
-    "language": [
-        "English"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
+    "language": ["English"],
     "pageurl": "movies/download-avatar-the-way-of-water-2022-movie-in-hindi-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Drama",
-        "Romance"
-    ],
+    "category": ["Hollywood", "Drama", "Romance"],
     "title": "Titanic",
     "year": 1997,
     "poster": "https://i.redd.it/best-common-titanic-poster-v0-73eyu22dqrva1.jpg?width=1719&format=pjpg&auto=webp&s=a2403a7a29d656a2d595084e20b020cb27e589b2",
     "imdb": "7.9",
-    "genres": [
-        "Drama",
-        "Romance"
-    ],
+    "genres": ["Drama", "Romance"],
     "pageurl": "movies/download-titanic-1997-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Action",
-        "Fantasy"
-    ],
+    "category": ["Animation", "Action", "Fantasy"],
     "title": "Ne Zha 2",
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/original/bkBStzEAotDixqu13zwOW99aacp.jpg",
     "imdb": "8.1",
-    "genres": [
-        "Animation",
-        "Action",
-        "Fantasy"
-    ],
+    "genres": ["Animation", "Action", "Fantasy"],
     "pageurl": "movies/download-ne-zha-2-2025-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Jerry Maguire",
     "year": 1996,
     "poster": "https://upload.wikimedia.org/wikipedia/en/e/ea/Jerry_Maguire_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "imdb": "7.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-jerry-maguire-1996-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Star Wars: The Force Awakens",
     "year": 2015,
     "poster": "https://images.fastcompany.com/image/upload/fc/3052458-inline-i-1-celebrate-the-poster.jpg",
     "imdb": "7.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-star-wars-the-force-awakens-2015-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Avengers: Infinity War",
     "year": 2018,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
     "imdb": "8.4",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-avengers-infinity-war-2018-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Spider-Man: No Way Home",
     "year": 2021,
     "poster": "https://m.media-amazon.com/images/I/81T0GmGsrZL.jpg",
     "imdb": "8.2",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-spider-man-no-way-home-2021-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Comedy",
-        "Adventure"
-    ],
+    "category": ["Animation", "Comedy", "Adventure"],
     "title": "Zootopia 2",
     "year": 2025,
     "poster": "https://m.media-amazon.com/images/I/71knz5H5t8L._AC_UF894,1000_QL80_.jpg",
     "imdb": "7.4",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-zootopia-2-2025-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Spider-Man: Brand New Day",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "7.1",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-spider-man-brand-new-day-2026-movie-in-english-hindi.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Comedy",
-        "Family"
-    ],
+    "category": ["Animation", "Comedy", "Family"],
     "title": "Inside Out 2",
     "year": 2024,
     "poster": "https://m.media-amazon.com/images/I/81do41OmwiL._AC_UF894,1000_QL80_.jpg",
     "imdb": "7.6",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-inside-out-2-2024-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Jurassic World",
     "year": 2015,
     "poster": "https://image.tmdb.org/t/p/original/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
     "imdb": "6.9",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-jurassic-world-2015-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Drama"
-    ],
+    "category": ["Animation", "Adventure", "Drama"],
     "title": "The Lion King",
     "year": 2019,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg",
     "imdb": "6.8",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Drama"
-    ],
+    "genres": ["Animation", "Adventure", "Drama"],
     "pageurl": "movies/download-the-lion-king-2019-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "The Avengers",
     "year": 2012,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv1wfRM9F-0HSLyAb4XDZz4RErnrzqxyH6DiBztYljhArpjpih3wVE8V8&s=10",
     "imdb": "8.0",
-    "genres": [
-        "Action",
-        "Sci-Fi",
-        "Adventure"
-    ],
+    "genres": ["Action", "Sci-Fi", "Adventure"],
     "pageurl": "movies/download-the-avengers-2012-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Thriller"
-    ],
+    "category": ["Hollywood", "Action", "Thriller"],
     "title": "Furious 7",
     "year": 2015,
     "poster": "https://www.tallengestore.com/cdn/shop/products/Fast_Furious_7_-_Paul_Walker_-_Vin_Diesel_-_Dwayne_Johnson_-_Hollywood_Action_Movie_Poster_acb6ceeb-8fef-4fd0-86ff-eac13eccf822.jpg?v=1582543228",
     "imdb": "7.1",
-    "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "pageurl": "movies/download-furious-7-2015-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Drama"
-    ],
+    "category": ["Hollywood", "Action", "Drama"],
     "title": "Top Gun: Maverick",
     "year": 2022,
     "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Top_Gun_Maverick_Poster.jpg/250px-Top_Gun_Maverick_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "imdb": "8.2",
-    "genres": [
-        "Action",
-        "Drama"
-    ],
+    "genres": ["Action", "Drama"],
     "pageurl": "movies/download-top-gun-maverick-2022-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Sci-Fi",
-        "Action"
-    ],
+    "category": ["Hollywood", "Sci-Fi", "Action"],
     "title": "Avatar: Fire and Ash",
     "year": 2025,
     "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Avatar_Fire_and_Ash_poster.jpeg/250px-Avatar_Fire_and_Ash_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "imdb": "7.2",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-avatar-fire-and-ash-2025-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Frozen 2",
     "year": 2019,
     "poster": "https://upload.wikimedia.org/wikipedia/en/8/89/Frozen_II_%282019_animated_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
     "imdb": "6.8",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-frozen-2-2019-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Hollywood", "Adventure", "Comedy"],
     "title": "Barbie",
     "year": 2023,
     "poster": "https://images-cdn.ubuy.co.in/660f9e73afccd7049644a2bc-poster-2023-movie-posters-prints-bedroom.jpg",
     "imdb": "6.8",
-    "genres": [
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-    ],
+    "genres": ["Adventure", "Comedy", "Fantasy"],
     "pageurl": "movies/download-barbie-2023-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Avengers: Age of Ultron",
     "year": 2015,
     "poster": "https://m.media-amazon.com/images/I/81mmNk1-LbL.jpg",
     "imdb": "7.3",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-avengers-age-of-ultron-2015-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "The Super Mario Bros. Movie",
     "year": 2023,
     "poster": "https://m.media-amazon.com/images/I/81MJF4qllrL._AC_UF1000,1000_QL80_.jpg",
     "imdb": "7.1",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-the-super-mario-bros-movie-2023-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Black Panther",
     "year": 2018,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_FMjpg_UX1000_.jpg",
     "imdb": "7.3",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-black-panther-2018-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Adventure",
-        "Fantasy"
-    ],
+    "category": ["Hollywood", "Adventure", "Fantasy"],
     "title": "Harry Potter and the Deathly Hallows – Part 2",
     "year": 2011,
     "poster": "https://m.media-amazon.com/images/I/717E6RcrE9L._AC_SL3840_.jpg",
     "imdb": "8.1",
-    "genres": [
-        "Adventure",
-        "Fantasy",
-        "Mystery"
-    ],
+    "genres": ["Adventure", "Fantasy", "Mystery"],
     "pageurl": "movies/download-harry-potter-and-the-deathly-hallows-part-2-2011-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Comedy"
-    ],
+    "category": ["Hollywood", "Action", "Comedy"],
     "title": "Deadpool & Wolverine",
     "year": 2024,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf8eeWwdW9ZxYGv0LSHofsR4npytj-7NpC-L8qRDHLrA&s=10",
     "imdb": "7.7",
-    "genres": [
-        "Action",
-        "Comedy",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Comedy", "Sci-Fi"],
     "pageurl": "movies/download-deadpool-and-wolverine-2024-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Star Wars: The Last Jedi",
     "year": 2017,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_.jpg",
     "imdb": "6.9",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-star-wars-the-last-jedi-2017-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Jurassic World: Fallen Kingdom",
     "year": 2018,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_FMjpg_UX1000_.jpg",
     "imdb": "6.1",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-jurassic-world-fallen-kingdom-2018-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Frozen",
     "year": 2013,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_.jpg",
     "imdb": "7.4",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-frozen-2013-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Family",
-        "Fantasy"
-    ],
+    "category": ["Hollywood", "Family", "Fantasy"],
     "title": "Beauty and the Beast",
     "year": 2017,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VyJ9zkGVz0_9IJbUzXBDZ8pkFyWPggwt17CN1wrph-oi_ov6LPmlZqu_&s=10",
     "imdb": "7.1",
-    "genres": [
-        "Family",
-        "Fantasy",
-        "Musical"
-    ],
+    "genres": ["Family", "Fantasy", "Musical"],
     "pageurl": "movies/download-beauty-and-the-beast-2017-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Action",
-        "Adventure"
-    ],
+    "category": ["Animation", "Action", "Adventure"],
     "title": "Incredibles 2",
     "year": 2018,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_FMjpg_UX1000_.jpg",
     "imdb": "7.6",
-    "genres": [
-        "Animation",
-        "Action",
-        "Adventure"
-    ],
+    "genres": ["Animation", "Action", "Adventure"],
     "pageurl": "movies/download-incredibles-2-2018-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Crime"
-    ],
+    "category": ["Hollywood", "Action", "Crime"],
     "title": "The Fate of the Furious",
     "year": 2017,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDDkHHoZrc08gFseRQj8UiQ7yfuaxUCgvqpgHI9mlS_NCkHorCaSiu1Hk&s=10",
     "imdb": "6.6",
-    "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-    ],
+    "genres": ["Action", "Crime", "Thriller"],
     "pageurl": "movies/download-the-fate-of-the-furious-2017-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Iron Man 3",
     "year": 2013,
     "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_.jpg",
     "imdb": "7.1",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-iron-man-3-2013-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Comedy",
-        "Family"
-    ],
+    "category": ["Animation", "Comedy", "Family"],
     "title": "Minions",
     "year": 2015,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrmKtqNBjMmiYvFZUFQp6VAklVdqmOGGxrXrOIIJMp7VLfUO_yVVVzlE&s=10",
     "imdb": "6.4",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-minions-2015-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Captain America: Civil War",
     "year": 2016,
     "poster": "https://m.media-amazon.com/images/I/81QQG5ptJVL.jpg",
     "imdb": "7.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-captain-america-civil-war-2016-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Adventure"
-    ],
+    "category": ["Hollywood", "Action", "Adventure"],
     "title": "Aquaman",
     "year": 2018,
     "poster": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg",
     "imdb": "6.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
     "pageurl": "movies/download-aquaman-2018-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Adventure",
-        "Fantasy"
-    ],
+    "category": ["Hollywood", "Adventure", "Fantasy"],
     "title": "The Lord of the Rings: The Return of the King",
     "year": 2003,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNJxn-i7CO5nF4f9gjyIaXWrKVR8ateLp7Prd2z1NA3A&s=10",
     "imdb": "9.0",
-    "genres": [
-        "Adventure",
-        "Drama",
-        "Fantasy"
-    ],
+    "genres": ["Adventure", "Drama", "Fantasy"],
     "pageurl": "movies/download-the-lord-of-the-rings-return-of-the-king-2003-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Spider-Man: Far From Home",
     "year": 2019,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIXXR0UVhX39afgE827bnvCpXi5ud7IJsKIUVJP4cbQ&s=10",
     "imdb": "7.4",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-spider-man-far-from-home-2019-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Captain Marvel",
     "year": 2019,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTARqGYz4RUQbd1DlEvmEQXRVrWYFNyyLoTRvN5HBTlWIPYT2uGqMyTDf2j&s=10",
     "imdb": "6.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-captain-marvel-2019-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Transformers: Dark of the Moon",
     "year": 2011,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_FMjpg_UX1000_.jpg",
     "imdb": "6.2",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-transformers-dark-of-the-moon-2011-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Thriller"
-    ],
+    "category": ["Hollywood", "Action", "Thriller"],
     "title": "Skyfall",
     "year": 2012,
     "poster": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_.jpg",
     "imdb": "7.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
-    ],
+    "genres": ["Action", "Adventure", "Thriller"],
     "pageurl": "movies/download-skyfall-2012-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Transformers: Age of Extinction",
     "year": 2014,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Qw8cGz0qae9MARXULUxW2-mNfP9CW6BtGQr0o76VN_POPYMKnnSB13Y&s=10",
     "imdb": "5.6",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-transformers-age-of-extinction-2014-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Toy Story 5",
     "year": 2026,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT6qnrzWfFjS_rMe6BeCLorgBOqP4gFnRT0B-Jd_lCbd1ltl9AAQTSX_f&s=10",
     "imdb": "7.3",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-toy-story-5-2026-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Drama"
-    ],
+    "category": ["Hollywood", "Action", "Drama"],
     "title": "The Dark Knight Rises",
     "year": 2012,
     "poster": "https://www.tallengestore.com/cdn/shop/products/03_4889fa4f-6eac-49f7-aefa-ef94a4d86168.jpg?v=1485870147",
     "imdb": "8.4",
-    "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-    ],
+    "genres": ["Action", "Drama", "Thriller"],
     "pageurl": "movies/download-the-dark-knight-rises-2012-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Crime",
-        "Drama"
-    ],
+    "category": ["Hollywood", "Crime", "Drama"],
     "title": "Joker",
     "year": 2019,
     "poster": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "imdb": "8.4",
-    "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-    ],
+    "genres": ["Crime", "Drama", "Thriller"],
     "pageurl": "movies/download-joker-2019-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Star Wars: The Rise of Skywalker",
     "year": 2019,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWeyLzJooomt5YX_Q0yVaSRLRm-uobk6GscXIdB4G0g9G8k8CP_Bga9Ps&s=10",
     "imdb": "6.4",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-star-wars-the-rise-of-skywalker-2019-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Toy Story 4",
     "year": 2019,
     "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
     "imdb": "7.7",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "pageurl": "movies/download-toy-story-4-2019-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Toy Story 3",
     "year": 2010,
     "poster": "https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "imdb": "8.3",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy"],
     "pageurl": "movies/download-toy-story-3-2010-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Adventure"
-    ],
+    "category": ["Hollywood", "Action", "Adventure"],
     "title": "Pirates of the Caribbean: Dead Man's Chest",
     "year": 2006,
     "poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pirates_of_the_caribbean_2_poster_b.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
     "imdb": "7.4",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-    ],
+    "genres": ["Action", "Adventure", "Fantasy"],
     "pageurl": "movies/download-pirates-of-the-caribbean-dead-mans-chest-2006-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Animation",
-        "Adventure",
-        "Comedy"
-    ],
+    "category": ["Animation", "Adventure", "Comedy"],
     "title": "Moana 2",
     "year": 2024,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbz6GXOGOJlpVQXN2Vaq1nWbmAWwqmBo7QD_uUwnwoT4kb0FAA_xmDBfg&s=10",
     "imdb": "6.9",
-    "genres": [
-        "Animation",
-        "Adventure",
-        "Comedy",
-        "Family"
-    ],
+    "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "pageurl": "movies/download-moana-2-2024-movie-in-english.html"
-},
-{
+  },
+  {
     "type": "movie",
-    "category": [
-        "Hollywood",
-        "Action",
-        "Sci-Fi"
-    ],
+    "category": ["Hollywood", "Action", "Sci-Fi"],
     "title": "Rogue One: A Star Wars Story",
     "year": 2016,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLoyyb1NT__7QsZCJld1VobEru1bHr5crA_rAiyLDj2UzzcwJhTDatro&s=10",
     "imdb": "7.8",
-    "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-    ],
+    "genres": ["Action", "Adventure", "Sci-Fi"],
     "pageurl": "movies/download-rogue-one-a-star-wars-story-2016-in-english.html"
-}
+  }
 ]
