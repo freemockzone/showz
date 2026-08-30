@@ -1,4 +1,130 @@
 [
+   {
+    "type": "movie",
+    "category": [
+        "International"
+    ],
+    "title": "Facing El Chapo",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGJkNjBkNTUtYWM2OC00MDJiLWE0ZjctMmMxMjE1ODMxMzQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.7",
+    "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+    ],
+    "pageurl": "movies/download-facing-el-chapo-2026-in-hindi-and-english.html"
+},
+{
+    "type": "game",
+    "category": [
+        "Video Game"
+    ],
+    "title": "Grand Theft Auto VI",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjg0ZTExNWMtNjk4Ni00YmYxLWE0YjItODdjY2ZjNWM5ZDkzXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "N/A",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+    ],
+    "pageurl": "movies/404.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "The Heat",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c400f6840926a3f693038eb252a0129e0ffff49ad783c6eea5302ebf09f38043.jpg",
+    "imdb": "6.2",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+    ],
+    "pageurl": "movies/download-the-heat-2013-in-english.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "Shrek",
+    "year": 2001,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "7.9",
+    "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+    ],
+    "pageurl": "movies/download-shrek-2001-in-hindi-english.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "The Last House",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "5.0",
+    "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+    ],
+    "pageurl": "movies/download-the-last-house-2026-in-english-hindi.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "72 Hours",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.1",
+    "genres": [
+        "Comedy"
+    ],
+    "pageurl": "movies/download-72-hours-2026-in-hindi.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "13 Minutes",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Y3ZDNlODItZjE5MC00MDkzLWJmYzQtODg3Mzk2ZGU4MzcyXkEyXkFqcGc@._V1_.jpg",
+    "imdb": "4.7",
+    "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+    ],
+    "pageurl": "movies/download-13-minutes-2021-in-hindi-english.html"
+},
+{
+    "type": "movie",
+    "category": [
+        "Hollywood"
+    ],
+    "title": "Mickey 17",
+    "year": 2025,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zUvDkPHeR_vKtI8YHkJ56Tp8lRWWW5-f4HA7wa0g1MD9f-5s2vFSYrU&s=10",
+    "imdb": "6.3",
+    "genres": [
+        "Sci-Fi",
+        "Comedy",
+        "Drama"
+    ],
+    "pageurl": "movies/download-mickey-17-2025-in-hindi-english.html"
+},
     {
     "type": "movie",
     "category": [
@@ -61,7 +187,7 @@
         "Biographical",
         "War"
     ],
-    "pageurl": "movies/download-ikkis-2026-movie-in-hindi.html"
+    "pageurl": "movies/download-ikkis-2026-in-hindi.html"
 },
 {
     "type": "series",
@@ -70,7 +196,7 @@
     ],
     "title": "Homeland All Seasons",
     "year": 2011,
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-qg5gaSkh-rRrCUcZj__lAggFM6TAbKSsKLgZDi1zL3EdGIcocKiSZUs&s=10",
+    "poster": "https://media-amazon.com",
     "imdb": "8.3",
     "genres": [
         "Crime",
