@@ -1,0 +1,19 @@
+# Cache CSS, JS, and JSON data for faster Core Web Vitals
+/*.css
+  Cache-Control: public, max-age=31536000, immutable
+/*.js
+  Cache-Control: public, max-age=31536000, immutable
+/movies.json
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+# Ensure Googlebot always fetches the latest sitemap and robots.txt
+/sitemap.xml
+  Cache-Control: public, max-age=0, must-revalidate
+/robots.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Global Security Headers (Improves trust and HTTPS scores)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin

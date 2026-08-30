@@ -1,0 +1,2 @@
+# Redirect HTTP errors or moved categories
+/movies/404.html    /    302

@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShowZ - Automated SEO & Sitemap Generator</title>
+    <style>
+        :root {
+            --bg: #0d0f12;
+            --card-bg: #161920;
+            --panel-bg: #1e222d;
+            --border: #2a2f3d;
+            --primary: #e50914;
+            --primary-hover: #b80710;
+            --accent: #00d26a;
+            --accent-hover: #00b058;
+            --text-light: #f1f3f7;
+            --text-muted: #9aa2b1;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text-light);
+            padding: 25px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            padding: 18px 25px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+        }
+
+        .logo {
+            font-size: 22px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        .logo span {
+            color: var(--primary);
+        }
+
+        .status-badge {
+            background: rgba(0, 210, 106, 0.15);
+            color: var(--accent);
+            border: 1px solid var(--accent);
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 700;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 25px;
+        }
+
+        .panel {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+        }
+
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .panel-title {
+            font-size: 17px;
+            font-weight: 700;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 8px;
+        }
+
+        button {
+            border: none;
+            border-radius: 6px;
+            padding: 7px 14px;
+            font-size: 12px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            background: var(--primary-hover);
+        }
+
+        .btn-accent {
+            background: var(--accent);
+            color: #000;
+        }
+
+        .btn-accent:hover {
+            background: var(--accent-hover);
+        }
+
+        pre {
+            background: var(--panel-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 15px;
+            color: #79c0ff;
+            font-family: 'Consolas', monospace;
+            font-size: 12px;
+            height: 280px;
+            overflow: auto;
+            white-space: pre;
+        }
+
+        .movies-list {
+            max-height: 400px;
+            overflow-y: auto;
+            background: var(--panel-bg);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+        }
+
+        .movie-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .movie-item:last-child {
+            border-bottom: none;
+        }
+
+        .movie-meta {
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        #fallback-box {
+            display: none;
+            background: rgba(229, 9, 20, 0.1);
+            border: 1px dashed var(--primary);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        #toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--accent);
+            color: #000;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-weight: 700;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s;
+            pointer-events: none;
+        }
+
+        #toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        @media (max-width: 900px) {
+            .grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="logo">Show<span>Z</span> | Auto SEO Generator</div>
+        <div class="status-badge" id="status-text">⏳ Fetching movies.json...</div>
+    </header>
+
+    <div id="fallback-box">
+        <p style="margin-bottom: 10px;">⚠️ Automatic fetch failed. Select your <code>movies.json</code> manually:</p>
+        <input type="file" id="file-input" accept=".json">
+    </div>
+
+    <div class="grid">
+        <div class="panel">
+            <div class="panel-header">
+                <span class="panel-title">1. Generated sitemap.xml</span>
+                <div class="btn-group">
+                    <button class="btn-accent" onclick="downloadFile('sitemap.xml', generatedSitemap, 'application/xml')">💾 Download</button>
+                    <button class="btn-primary" onclick="copyText(generatedSitemap)">📋 Copy</button>
+                </div>
+            </div>
+            <pre id="out-sitemap">Loading...</pre>
+        </div>
+
+        <div class="panel">
+            <div class="panel-header">
+                <span class="panel-title">2. Generated rss.xml</span>
+                <div class="btn-group">
+                    <button class="btn-accent" onclick="downloadFile('rss.xml', generatedRss, 'application/xml')">💾 Download</button>
+                    <button class="btn-primary" onclick="copyText(generatedRss)">📋 Copy</button>
+                </div>
+            </div>
+            <pre id="out-rss">Loading...</pre>
+        </div>
+    </div>
+
+    <div class="panel">
+        <div class="panel-header">
+            <span class="panel-title">3. Individual Movie Pages</span>
+            <span style="font-size: 13px; color: var(--text-muted);" id="movie-count">0 items loaded</span>
+        </div>
+        <div class="movies-list" id="movies-list"></div>
+    </div>
+</div>
+
+<div id="toast">Copied to clipboard!</div>
+
+<script>
+    let moviesData = [];
+    let generatedSitemap = '';
+    let generatedRss = '';
+    const baseUrl = 'https://showz.pages.dev/';
+    const today = new Date().toISOString().split('T')[0];
+
+    // Initialize fetch
+    document.addEventListener('DOMContentLoaded', () => {
+        fetch('movies.json')
+            .then(res => {
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                return res.json();
+            })
+            .then(data => processData(data))
+            .catch(err => {
+                console.warn('Auto fetch failed:', err);
+                document.getElementById('status-text').innerText = '⚠️ Select File Manually';
+                document.getElementById('status-text').style.borderColor = '#e50914';
+                document.getElementById('status-text').style.color = '#e50914';
+                document.getElementById('fallback-box').style.display = 'block';
+            });
+    });
+
+    // File input fallback
+    document.getElementById('file-input').addEventListener('change', function(e) {
+        const file = e.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = function(evt) {
+            try {
+                const data = JSON.parse(evt.target.result);
+                document.getElementById('fallback-box').style.display = 'none';
+                processData(data);
+            } catch (err) {
+                alert('Invalid JSON file format.');
+            }
+        };
+        reader.readAsText(file);
+    });
+
+    // Process all data
+    function processData(data) {
+        moviesData = data;
+        document.getElementById('status-text').innerText = `⚡ ${data.length} Titles Synced`;
+        document.getElementById('movie-count').innerText = `${data.length} HTML files ready`;
+
+        generateSitemapXml();
+        generateRssXml();
+        renderMovieList();
+    }
+
+    // Sitemap Generator
+    function generateSitemapXml() {
+        let xml = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n';
+        xml += `  <url>\n    <loc>${baseUrl}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>1.0</priority>\n  </url>\n`;
+
+        moviesData.forEach(item => {
+            if (item.pageurl && !item.pageurl.includes('404.html')) {
+                xml += `  <url>\n    <loc>${baseUrl}${item.pageurl}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+            }
+        });
+
+        xml += '</urlset>';
+        generatedSitemap = xml;
+        document.getElementById('out-sitemap').textContent = xml;
+    }
+
+    // RSS Generator
+    function generateRssXml() {
+        let xml = '<?xml version="1.0" encoding="UTF-8" ?>\n<rss version="2.0">\n<channel>\n  <title>ShowZ - Latest Releases</title>\n  <link>' + baseUrl + '</link>\n  <description>Latest HD movie & series download links</description>\n  <language>en-us</language>\n';
+
+        moviesData.forEach(item => {
+            if (item.pageurl && !item.pageurl.includes('404.html')) {
+                xml += `  <item>\n    <title>${escapeXml(item.title)} (${item.year})</title>\n    <link>${baseUrl}${item.pageurl}</link>\n    <description>Download ${escapeXml(item.title)} in HD quality on ShowZ.</description>\n    <pubDate>${new Date().toUTCString()}</pubDate>\n  </item>\n`;
+            }
+        });
+
+        xml += '</channel>\n</rss>';
+        generatedRss = xml;
+        document.getElementById('out-rss').textContent = xml;
+    }
+
+    // Safely render the list by passing the array INDEX instead of a raw object
+    function renderMovieList() {
+        const list = document.getElementById('movies-list');
+        list.innerHTML = '';
+
+        moviesData.forEach((item, index) => {
+            if (!item.pageurl || item.pageurl.includes('404.html')) return;
+
+            const filename = item.pageurl.replace('movies/', '');
+            const div = document.createElement('div');
+            div.className = 'movie-item';
+            div.innerHTML = `
+                <div>
+                    <strong>${escapeXml(item.title)} (${item.year})</strong>
+                    <div class="movie-meta">${filename}</div>
+                </div>
+                <div class="btn-group">
+                    <button class="btn-accent" onclick="downloadMovieHtml('${filename}', ${index})">💾 Download .html</button>
+                    <button class="btn-primary" onclick="copyMovieHtml(${index})">📋 Copy</button>
+                </div>
+            `;
+            list.appendChild(div);
+        });
+    }
+
+    // HTML Template Builder
+    function createSingleHtml(item) {
+        const canonicalUrl = `${baseUrl}${item.pageurl}`;
+        const genres = item.genres || ['Action'];
+        const imdb = item.imdb && item.imdb !== 'N/A' ? item.imdb : '7.0';
+        const poster = item.poster || 'https://via.placeholder.com/300x450/222/fff';
+
+        const jsonLdData = {
+            "@context": "https://schema.org",
+            "@type": item.type === "series" ? "TVSeries" : "Movie",
+            "name": item.title,
+            "image": poster,
+            "datePublished": `${item.year}-01-01`,
+            "genre": genres,
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": imdb,
+                "bestRating": "10",
+                "ratingCount": "1200"
+            },
+            "description": `Download ${item.title} (${item.year}) in high definition without registration on ShowZ.`
+        };
+        const safeJsonLd = JSON.stringify(jsonLdData, null, 2);
+
+        // Breaking apart the script tag so the browser's HTML parser completely ignores it
+        const scriptOpen = '<scr' + 'ipt type="application/ld+json">';
+        const scriptClose = '</scr' + 'ipt>';
+
+        return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download ${escapeXml(item.title)} (${item.year}) Full HD | ShowZ</title>
+    <meta name="description" content="Download ${escapeXml(item.title)} (${item.year}) for free in 480p, 720p, 1080p and 4K UHD. Direct high-speed download links on ShowZ.">
+    <link rel="canonical" href="${canonicalUrl}">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+
+    <meta property="og:type" content="video.movie">
+    <meta property="og:url" content="${canonicalUrl}">
+    <meta property="og:title" content="Download ${escapeXml(item.title)} (${item.year}) | ShowZ">
+    <meta property="og:image" content="${poster}">
+
+    ${scriptOpen}
+    ${safeJsonLd}
+    ${scriptClose}
+
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar" aria-label="Main Navigation">
+            <div class="nav-container">
+                <a href="../index.html" class="logo">Show<span>Z</span></a>
+                <ul class="nav-links">
+                    <li><a href="../index.html" class="nav-item">Home</a></li>
+                    <li><a href="../index.html" class="nav-item">Bollywood</a></li>
+                    <li><a href="../index.html" class="nav-item">Hollywood</a></li>
+                    <li><a href="../index.html" class="nav-item">Dual Audio</a></li>
+                    <li><a href="../index.html" class="nav-item">Web Series</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="modal-body">
+        <img src="${poster}" alt="${escapeXml(item.title)} Poster" class="modal-portrait">
+        <div class="modal-info">
+            <h1 class="modal-title">${escapeXml(item.title)} (${item.year})</h1>
+            <div class="modal-meta">
+                <span class="imdb">★ ${imdb} IMDb</span>
+                <span>${item.year}</span>
+                <span>${genres.join(', ')}</span>
+            </div>
+            <p class="modal-desc">Download ${escapeXml(item.title)} (${item.year}) in full high definition with ultra fast direct download links.</p>
+            <div class="download-section">
+                <h4>📥 Direct Fast Download Links</h4>
+                <div class="download-links">
+                    <a href="#" class="dl-btn">⚡ Download 480p SD (450 MB)</a>
+                    <a href="#" class="dl-btn">⚡ Download 720p HD (1.1 GB)</a>
+                    <a href="#" class="dl-btn">⚡ Download 1080p FHD (2.4 GB)</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-logo">Show<span>Z</span></div>
+            <p>Disclaimer: This site does not store files on its server. All contents are provided by non-affiliated third parties.</p>
+            <p class="copyright">&copy; 2026 ShowZ. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>`;
+    }
+
+    // Helper functions matching index lookups
+    function downloadMovieHtml(filename, index) {
+        downloadFile(filename, createSingleHtml(moviesData[index]), 'text/html');
+    }
+
+    function copyMovieHtml(index) {
+        copyText(createSingleHtml(moviesData[index]));
+    }
+
+    function downloadFile(filename, content, type) {
+        const blob = new Blob([content], { type: type });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = filename;
+        a.click();
+    }
+
+    function copyText(text) {
+        navigator.clipboard.writeText(text).then(() => {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => toast.classList.remove('show'), 2000);
+        });
+    }
+
+    // Escape characters that break XML or HTML layouts
+    function escapeXml(str) {
+        if (!str) return '';
+        return str.replace(/[<>&'"]/g, c => {
+            switch (c) {
+                case '<': return '&lt;';
+                case '>': return '&gt;';
+                case '&': return '&amp;';
+                case '\'': return '&apos;';
+                case '"': return '&quot;';
+            }
+        });
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /movies/404.html
+
+Sitemap: https://showz.pages.dev/sitemap.xml

@@ -1,4 +1,161 @@
 [
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYzNDczNzE0MV5BMl5BanBnXkFtZTcwMzMzODc0MQ@@._V1_.jpg",
+    "imdb": "8.0",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "pageurl": "movies/download-dilwale-dulhania-le-jayenge-1995-in-hindi.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Karan Arjun",
+    "year": 1995,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM1YzhkNTMtM2ViZi00OGNmLTg4ZDItZGZiODZjN2U4NzY0XkEyXkFqcGc@._V1_.jpg",
+    "imdb": "6.8",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "pageurl": "movies/download-karan-arjun-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Coolie No. 1",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwM45Gp9WBPZYr0fuvtW4HBRwBxQcNUc3YO40_D6JH0Er_di1EYq-1Li4&s=10",
+    "imdb": "6.6",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "pageurl": "movies/download-coolie-no-1-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Akele Hum Akele Tum",
+    "year": 1995,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjAxY2Y3OTAtY2EwOS00ZTJjLTkwNmItNGIwNjcxMmIyM2UwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "imdb": "6.9",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "pageurl": "movies/download-akele-hum-akele-tum-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Sabse Bada Khiladi",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Z8fyAcaaUv5VrZbxV398Rgup_Rh19DmtzWD2fgC2AQ&s=10",
+    "imdb": "5.9",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "pageurl": "movies/download-sabse-bada-khiladi-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Trimurti",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-KLD4ZhiewpKgddeY1Tikoz83cH-V4HGPHn92gbkRA&s=10",
+    "imdb": "4.9",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "pageurl": "movies/download-trimurti-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Barsaat",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMeYWvkp2NcZHeEr5c2sJ0LPtifNpYQ_W4moePIDtLA&s=10",
+    "imdb": "5.3",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "pageurl": "movies/download-barsaat-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Hulchul",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsu6qBSwkuCNhbJhTEXrzJeVbfSDLFVVGAAWmCi4Xccg&s=10",
+    "imdb": "5.3",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "pageurl": "movies/download-hulchul-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Yaraana",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7Bu3adJEgOYe4fRGQ34OT68qgqyY2J6xzgzI1TxOkw&s=10",
+    "imdb": "5.0",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Musical"
+    ],
+    "pageurl": "movies/download-yaraana-1995-in-hindi-in-480p-720p-1080p.html"
+  },
+  {
+    "type": "movie",
+    "category": [
+      "Bollywood"
+    ],
+    "title": "Haqeeqat",
+    "year": 1995,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo-aXW1yOMPuRWEQZ3yP60DaeGzbXW5bYvMD2KCgupnQ&s",
+    "imdb": "4.6",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "pageurl": "movies/download-haqeeqat-1995-in-hindi-in-480p-720p-1080p.html"
+  },
    {
     "type": "movie",
     "category": [
