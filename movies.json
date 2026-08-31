@@ -1,5 +1,35 @@
 [
   {
+    "type": "movie",
+    "category": ["Tollywood"],
+    "title": "Newton's 3rd Law",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUgAiaFVC0SgwQsqs5S87dRzwz4ejsQQ310h214-Kgg&s=10",
+    "imdb": 6.8,
+    "genres": ["Drama", "Thriller"],
+    "pageurl": "movies/download-newtons-3rd-law-2026-in-hindi-telugu-in-480p-720p-1080p-2k-4k.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Bollywood"],
+    "title": "Ohh My Dog",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvSA03o56APrIS62z_P4SAV9AAzr94hcDr9JSg5lR2xw&s",
+    "imdb": 6.5,
+    "genres": ["Adventure", "Drama"],
+    "pageurl": "movies/download-ohh-my-dog-2026-in-hindi-in-480p-720p-1080p-2k-4k.html"
+  },
+  {
+    "type": "movie",
+    "category": ["Mollywood"],
+    "title": "Khalifa",
+    "year": 2026,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoWD9EIt-3iMIcuL2rB7H1hvMIDzI1KYUfHNiCvtmaw&s=10",
+    "imdb": 6.7,
+    "genres": ["Action", "Crime", "Thriller"],
+    "pageurl": "movies/download-khalifa-2026-in-hindi-malayalam-in-480p-720p-1080p-2k-4k.html"
+  },
+  {
   "type": "movie",
   "category": ["Hollywood"],
   "title": "Peaky Blinders: The Immortal Man",
