@@ -1,5 +1,15 @@
 [
   {
+  "type": "movie",
+  "category": ["Hollywood"],
+  "title": "Peaky Blinders: The Immortal Man",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmRg5koTtgWUhMXUAWNpBLB17EbBSPiJdZB5YU4dOeWg&s=10",
+  "imdb": 6.5,
+  "genres": ["Crime", "Drama", "History"],
+  "pageurl": "movies/download-peaky-blinders-the-immortal-man-2026-in-hindi-english-in-480p-720p-1080p-2k-4k.html"
+},
+  {
     "type": "movie",
     "category": ["Hollywood"],
     "title": "Independence Day",
