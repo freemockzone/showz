@@ -1,6 +1,26 @@
 [
   {
     "type": "movie",
+    "category": ["Hollywood", "English"],
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1eDt_FMmr7ZraODWAP2xMzsZUgczVI4Gxk4SFi8MGQ&s=10",
+    "imdb": 6.8,
+    "genres": ["Comedy", "Fantasy"],
+    "pageurl": "movies/download-bruce-almighty-2003-in-hindi-english-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+    "type": "series",
+    "category": ["English"],
+    "title": "Young Sheldon All Seasons",
+    "year": 2024,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqNhQJr_STllaA8i2fOx6PHV_0VVvCnQxSrI5EH4VzA&s=10",
+    "imdb": 7.6,
+    "genres": ["Comedy"],
+    "pageurl": "movies/download-young-sheldon-all-seasons-in-english-in-480p-720p-1080p-2k-4k.html"
+},
+{
+    "type": "movie",
     "category": ["Tollywood"],
     "title": "Newton's 3rd Law",
     "year": 2026,
