@@ -1,5 +1,45 @@
 [
   {
+  "type": "movie",
+  "category": ["Bollywood"],
+  "title": "Anveshan",
+  "year": 2025,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccgvgYg6D5hREs6gRu0GUaH0REIlR_pJ-rR8GIGG4ZQ&s=10",
+  "imdb": null,
+  "genres": ["Mystery", "Thriller"],
+  "pageurl": "movies/download-anveshan-2025-in-hindi-malayalam-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "series",
+  "category": ["Hollywood"],
+  "title": "Grand Army",
+  "year": 2020,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPaly3TPgOgjb5uqOos0tDh_p1bH245Df2BdrIfIyAHw&s=10",
+  "imdb": 7.4,
+  "genres": ["Drama"],
+  "pageurl": "movies/download-grand-army-in-hindi-english-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "series",
+  "category": ["Bollywood"],
+  "title": "Cubicles All Seasons",
+  "year": 2019,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq39AiLB-lGicEXXWaNDu1Atjh3txWYuHgypMbyaE05Q&s=10",
+  "imdb": 8.2,
+  "genres": ["Comedy", "Drama"],
+  "pageurl": "movies/download-cubicles-all-seasons-in-hindi-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
+  "category": ["Punjabi"],
+  "title": "Mukk Gyi Feem Dabbi Cho Yaaro",
+  "year": 2025,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAvbropypszNOJxR_luoBpoH4gwewsq0L54lMIiA7FIQ&s=10",
+  "imdb": 7.4,
+  "genres": ["Comedy", "Drama"],
+  "pageurl": "movies/download-mukk-gyi-feem-dabbi-cho-yaaro-2025-in-punjabi-in-480p-720p-1080p-2k-4k.html"
+},
+  {
     "type": "movie",
     "category": ["Bollywood"],
     "title": "Pardes",
