@@ -2,6 +2,16 @@
   {
   "type": "movie",
   "category": ["Bollywood"],
+  "title": "Mirzapur The Movie",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHEsv1BMeQB8HkeeCyMo9S4YHUmaVPTRpCJ6GC-ZEyTA&s=10",
+  "imdb": 8.0,
+  "genres": ["Action", "Crime", "Thriller"],
+  "pageurl": "movies/download-mirzapur-the-movie-2026-in-hindi-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
+  "category": ["Bollywood"],
   "title": "Anveshan",
   "year": 2025,
   "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSccgvgYg6D5hREs6gRu0GUaH0REIlR_pJ-rR8GIGG4ZQ&s=10",
