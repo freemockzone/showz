@@ -1,6 +1,56 @@
 [
   {
   "type": "movie",
+  "category": ["Bollywood", "South"],
+  "title": "Unmadham",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHPGHbpT4i47ze3H2GyWt2adAexahehZ6vLVUNekJJw&s=10",
+  "imdb": 7.4,
+  "genres": ["Crime", "Mystery", "Thriller"],
+  "pageurl": "movies/download-unmadham-2026-in-hindi-malayalam-in-480p-720p-1080p-2k-4k.html"
+},
+ {
+  "type": "movie",
+  "category": ["Bollywood"],
+  "title": "The Court",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw4x9OxKMMQd5q_CsxaHGlbbaflFGe54Y5-K2lGssJNw&s=10",
+  "imdb": 7.2,
+  "genres": ["Crime", "Drama", "Thriller"],
+  "pageurl": "movies/download-the-court-2026-in-tamil-telugu-hindi-malayalam-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
+  "category": ["Bollywood"],
+  "title": "GDN",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS41KBLsawGJLztdLVWU_ti5luSe4gYWaP5onuJPlG8TQ&s=10",
+  "imdb": 7.8,
+  "genres": ["Biography", "Drama"],
+  "pageurl": "movies/download-gdn-2026-in-hindi-tamil-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
+  "category": ["Bollywood"],
+  "title": "Dhamaal 4",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl3dEynaA0KxvaR41-pbQBSPe00ucLmMmxlUt2BkJUEg&s=10",
+  "imdb": 7.5,
+  "genres": ["Adventure", "Comedy"],
+  "pageurl": "movies/download-dhamaal-4-2026-in-hindi-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
+  "category": ["Bollywood"],
+  "title": "Gandhari",
+  "year": 2026,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYGMPy7kiHCYtwdiaFkSK90UG6OgkN7N_RJTmbXinoag&s=10",
+  "imdb": 5.5,
+  "genres": ["Action", "Crime", "Thriller"],
+  "pageurl": "movies/download-gandhari-2026-in-hindi-in-480p-720p-1080p-2k-4k.html"
+},
+  {
+  "type": "movie",
   "category": ["Bollywood"],
   "title": "Mirzapur The Movie",
   "year": 2026,
@@ -292,7 +342,7 @@
   {
     "type": "movie",
     "category": ["Hollywood"],
-    "title": "Mother, May I Sleep with Danger?",
+    "title": "Mother-May I Sleep with Danger?",
     "year": 1996,
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStX0yOG9X7pT71vv8OSvc4w0z0vjLjqN9wgwL15PnkGw&s=10",
     "imdb": "5.0",
