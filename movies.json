@@ -1,4 +1,31 @@
 [
+  { "type": "series", "category": ["Bollywood", "Web Series"], "title": "Hostel Daze All Seasons", "year": 2019, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBZLdELmS_k1XfmgJVEcxJoMIVPT7nzRoZKFHb4qQDZQ&s=10", "imdb": 8.5, "genres": ["Comedy", "Drama"], "pageurl": "movies/download-hostel-daze-all-seasons-2019-in-hindi-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "series", "category": ["Bollywood", "Web Series"], "title": "Freedom at Midnight All Seasons", "year": 2024, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZFZh-KncNuMSVN_XU0PcRv0CcLr0N_38BDxqWhpjhQ&s=10", "imdb": 8.4, "genres": ["Drama", "History"], "pageurl": "movies/download-freedom-at-midnight-all-seasons-2024-in-hindi-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "movie", "category": ["Hollywood"], "title": "Soulm8te", "year": 2026, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2LpptrtmLg7Irvl-_O8YJmY4AX7Mu81txqk4JX7u6A&s=10", "imdb": 6.8, "genres": ["Sci-Fi", "Thriller", "Horror"], "pageurl": "movies/download-soulm8te-2026-in-english-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "series", "category": ["Hollywood"], "title": "Widows Bay", "year": 2026, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtyZikwWZf9IojSjr13Ykv7w2bML91qqjrbQSSZLux9w&s=10", "imdb": 8.2, "genres": ["Comedy", "Horror", "Mystery"], "pageurl": "movies/download-widows-bay-2026-in-english-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "movie", "category": ["South"], "title": "Su From So", "year": 2025, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQO2AbC2CMKEK6NRH0F3k83HIQEoLnVoPmJcfJ-jVrQ&s", "imdb": 8.1, "genres": ["Comedy", "Drama", "Horror"], "pageurl": "movies/download-su-from-so-2025-in-hindi-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "movie", "category": ["Hollywood"], "title": "The Shawshank Redemption", "year": 1994, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTanPamHEzjslvL-_twBCccp8g7NdrWkqwznLrCkTCNWw&s", "imdb": 9.3, "genres": ["Drama", "Crime"], "pageurl": "movies/download-the-shawshank-redemption-1994-in-hindi-english-in-480p-720p-1080p-2k-4k.html"},
+  { "type": "movie", "category": ["Regional", "Punjabi"], "title": "Kankaan De Ohle", "year": 2026, "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWRa611ck4To6PqvuJM7D3ZfnOqDo0frqPUY2Dpg6ow&s=10", "imdb": 7.8, "genres": ["Drama", "Family"], "pageurl": "movies/download-kankaan-de-ohle-2026-in-punjabi-in-480p-720p-1080p-2k-4k.html"},
+  {
+  "type": "movie",
+  "category": ["Hollywood"],
+  "title": "Dune",
+  "year": 2021,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMCK66kGEQq89RIFQNwtCCwjh9RyREpTN79LZMyuGttQ&s=10",
+  "imdb": 7.8,
+  "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+  "pageurl": "movies/download-dune-2021-in-hindi-english-in-480p-720p-1080p-2k-4k.html"
+},
+{
+  "type": "movie",
+  "category": ["Hollywood"],
+  "title": "Dune: Part Two",
+  "year": 2024,
+  "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn35r4NtzZbFMYAYE4hjmZaPV34wjT_49V8FM6oJaRMQ&s=10",
+  "imdb": 8.4,
+  "genres": ["Action", "Adventure", "Drama", "Sci-Fi"],
+  "pageurl": "movies/download-dune-2-2024-in-hindi-english-in-480p-720p-1080p-2k-4k.html"
+},
   {
   "type": "movie",
   "category": ["Bollywood", "South"],
